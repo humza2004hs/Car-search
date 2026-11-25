@@ -1,4 +1,4 @@
-# Predicted auction prices – all 68 cars from 2016 and newer
+# Predicted auction prices – all 69 cars from 2016 and newer
 
 Delaware Auto Exchange dealer auction, 11/24/26. These are **hammer prices**: what a dealer would pay when the gavel drops, before auction fees. They are well below retail and private-party prices.
 
