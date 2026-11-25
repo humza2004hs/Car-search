@@ -104,4 +104,4 @@ I compared each car's private-party value with its low-end hammer price, minus a
 | 4 | B-009 | 2019 Ford Explorer Limited FWD, 133k mi (title absent) | $4,000 | $11,500–13,500 | about $7,600 |
 | 5 | B-005 | 2020 Chevrolet Equinox LT FWD, 112k mi | $4,000 | $10,000–12,500 | about $6,300 |
 
-B-002 is the safest of the five because its history has been checked. The others have no Carfax yet. Run one before you resell, because about half the cars checked at this sale had hidden title problems.
+B-002 is the safest of the five because its history has been checked. The others have no Carfax yet. Run one before you resell, because 5 of the 12 cars checked at this sale had hidden title or mileage problems.
