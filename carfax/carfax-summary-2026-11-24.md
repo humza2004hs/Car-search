@@ -11,3 +11,14 @@ PDFs are kept locally and excluded from git because this repository is public.
 | A-040 | 2016 Subaru Impreza | FAIL | Insurance total loss 05/2026, salvage title, sold at salvage auction. Damage also reported 2017, 2025, 2026. |
 
 The auction listing showed none of these title brands, so run a history report before bidding on any car.
+
+## Round 2 (11/25/26, $24.50)
+| Run | Car | Verdict | Key findings |
+|---|---|---|---|
+| A-084 | 2016 Mazda CX-9 Touring | PASS (clean) | 2 owners (lease, then personal), 33 service records, no accidents, clean title. |
+| B-085 | 2017 Hyundai Santa Fe SE | PASS (clean) | 2 owners (lease, then personal), 18 service records, no accidents, clean title. |
+| B-028 | 2015 Subaru Outback | PASS | 1 owner, 22 service records, minor damage 2015 and 2016, clean title. |
+| B-089 | 2015 Chevy Impala | CAUTION | 4 owners, minor damage 2019, clean title, mileage consistent. |
+| C-021 | 2016 Chevy Impala LS | CAUTION | Ex-rental fleet car, 5 owners, minor damage 2019, clean title. |
+| B-074 | 2015 Kia Sorento SX | FAIL | Not Actual Mileage title (DE, 03/2026), damage 12/2025. |
+| C-071 | 2017 Dodge Grand Caravan | FAIL | Ex-rental, insurance total loss, salvage then rebuilt title. |
