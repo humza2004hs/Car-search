@@ -1,0 +1,349 @@
+[
+ {
+  "run": "A-013",
+  "car": "2023 Ford Explorer XLT 4WD 2.3T",
+  "miles": 162451,
+  "retail_value_usd": [
+   17500,
+   20500
+  ],
+  "private_party_value_usd": [
+   15000,
+   17000
+  ],
+  "estimated_wholesale_usd": [
+   12500,
+   14500
+  ],
+  "max_bid_range_usd": [
+   11000,
+   12500
+  ],
+  "comps": [
+   "KBB 2023 XLT 107,951mi $21,795",
+   "KBB 2023 XLT 100,807mi $23,990"
+  ],
+  "notes": "No 160k comps exist; extrapolated down from ~100k-mile listings. Very high miles for a 3-yr-old car (likely fleet/rental); warranty likely expired on miles."
+ },
+ {
+  "run": "A-017",
+  "car": "2020 Ford Explorer XLT 4WD 2.3T",
+  "miles": 184097,
+  "retail_value_usd": [
+   12000,
+   14500
+  ],
+  "private_party_value_usd": [
+   9500,
+   11500
+  ],
+  "estimated_wholesale_usd": [
+   7500,
+   9000
+  ],
+  "max_bid_range_usd": [
+   6500,
+   7800
+  ],
+  "comps": [
+   "KBB 2020 XLT 138,403mi $17,990",
+   "KBB 2020 XLT 4WD 113,855mi $16,995"
+  ],
+  "notes": "Extrapolated from 108-138k comps ($17-19k)."
+ },
+ {
+  "run": "B-009",
+  "car": "2019 Ford Explorer Limited FWD 3.5",
+  "miles": 132696,
+  "retail_value_usd": [
+   14500,
+   16500
+  ],
+  "private_party_value_usd": [
+   11500,
+   13500
+  ],
+  "estimated_wholesale_usd": [
+   9500,
+   11500
+  ],
+  "max_bid_range_usd": [
+   8000,
+   9500
+  ],
+  "comps": [
+   "KBB 2019 Limited 125,352mi $14,750",
+   "KBB 2019 Limited 137,837mi $15,990",
+   "KBB 2019 Limited 124,173mi $16,995"
+  ],
+  "notes": "Good comps. FWD Limited discounted vs 4WD."
+ },
+ {
+  "run": "B-023",
+  "car": "2015 Ford Explorer 4WD 3.5 (base/XLT)",
+  "miles": 93808,
+  "retail_value_usd": [
+   10000,
+   12000
+  ],
+  "private_party_value_usd": [
+   8000,
+   9500
+  ],
+  "estimated_wholesale_usd": [
+   6500,
+   8000
+  ],
+  "max_bid_range_usd": [
+   5500,
+   6800
+  ],
+  "comps": [
+   "KBB 2015 Explorer 4WD 117,523mi $10,495",
+   "KBB trim est 2015 XLT 4WD ~$10,420"
+  ],
+  "notes": "Low miles for age; 3.5 V6 is durable."
+ },
+ {
+  "run": "A-076",
+  "car": "2017 Ford Explorer Police Interceptor 3.7 AWD",
+  "miles": 98743,
+  "retail_value_usd": [
+   9500,
+   12000
+  ],
+  "private_party_value_usd": [
+   6000,
+   8000
+  ],
+  "estimated_wholesale_usd": [
+   4500,
+   6500
+  ],
+  "max_bid_range_usd": [
+   3000,
+   4500
+  ],
+  "comps": [
+   "iSeeCars 2017 PI 99,570mi $9,495",
+   "KBB 2017 PI 104,060mi $11,997",
+   "Purple Wave govt auction 2017 PI 100,160mi $4,620"
+  ],
+  "notes": "Ex-police: heavy idle hours (miles understate wear), hard use; govt auctions clear ~$4.6-5.3k + fees. Bid conservatively."
+ },
+ {
+  "run": "A-065",
+  "car": "2015 Ford F150 XLT RWD 2.7 EcoBoost",
+  "miles": 192737,
+  "retail_value_usd": [
+   11500,
+   14000
+  ],
+  "private_party_value_usd": [
+   9000,
+   11000
+  ],
+  "estimated_wholesale_usd": [
+   7000,
+   9000
+  ],
+  "max_bid_range_usd": [
+   6000,
+   7500
+  ],
+  "comps": [
+   "Autotrader/KBB 2015 XLT 2.7 193,625mi $14,000",
+   "2015 XLT 198,909mi $11,495",
+   "2015 XLT SuperCrew 190,000mi $12,000"
+  ],
+  "notes": "RWD less valued; 2.7 EcoBoost timing/turbo risk at this mileage."
+ },
+ {
+  "run": "A-025",
+  "car": "2018 Ford Fiesta SE FWD 1.6",
+  "miles": 97007,
+  "retail_value_usd": [
+   7500,
+   9000
+  ],
+  "private_party_value_usd": [
+   5500,
+   7000
+  ],
+  "estimated_wholesale_usd": [
+   4500,
+   6000
+  ],
+  "max_bid_range_usd": [
+   3200,
+   4300
+  ],
+  "comps": [
+   "Autolist 2018 SE 88,264mi $8,013",
+   "iSeeCars 2018 SE 79,922mi $7,550",
+   "KBB 2018 SE 144k $5,995"
+  ],
+  "notes": "Check transmission (auto = PowerShift DCT, if equipped, problematic). Low-demand model."
+ },
+ {
+  "run": "A-044",
+  "car": "2016 Ford Focus SE hatch 2.0",
+  "miles": 143148,
+  "retail_value_usd": [
+   6500,
+   8000
+  ],
+  "private_party_value_usd": [
+   4500,
+   5800
+  ],
+  "estimated_wholesale_usd": [
+   3500,
+   5000
+  ],
+  "max_bid_range_usd": [
+   2300,
+   3300
+  ],
+  "comps": [
+   "KBB 2016 Focus SE $9,500 (low-mile, no mileage shown)",
+   "KBB 2018 Focus SE 96,600mi $8,495"
+  ],
+  "notes": "Few comps; estimated. Focus auto uses DPS6 dual-clutch with known failures; risky."
+ },
+ {
+  "run": "C-001",
+  "car": "2019 Ford Fusion SE AWD 2.0T",
+  "miles": 118449,
+  "retail_value_usd": [
+   11000,
+   12500
+  ],
+  "private_party_value_usd": [
+   8500,
+   10000
+  ],
+  "estimated_wholesale_usd": [
+   7500,
+   9000
+  ],
+  "max_bid_range_usd": [
+   6000,
+   7200
+  ],
+  "comps": [
+   "KBB 2019 SE AWD 2.0 95,642mi $12,295",
+   "KBB 2019 SE 119,929mi $10,485",
+   "KBB 2019 Titanium AWD 120,534mi $12,541"
+  ],
+  "notes": "Discontinued sedan, soft demand."
+ },
+ {
+  "run": "B-002",
+  "car": "2019 GMC Acadia SLE1 AWD 2.5",
+  "miles": 100606,
+  "retail_value_usd": [
+   14500,
+   16500
+  ],
+  "private_party_value_usd": [
+   12000,
+   14000
+  ],
+  "estimated_wholesale_usd": [
+   10000,
+   12000
+  ],
+  "max_bid_range_usd": [
+   8500,
+   10500
+  ],
+  "comps": [
+   "KBB 2019 Acadia 2.5 139,787mi $12,995",
+   "TrueCar 2019 SLE-2 AWD 119,466mi $14,997",
+   "KBB 2019 SLE 3.6 101,093mi $20,095"
+  ],
+  "notes": "2.5 4-cyl is the weaker engine option; price below V6 comps."
+ },
+ {
+  "run": "A-067",
+  "car": "2017 GMC Sierra 1500 SLE 4WD 5.3",
+  "miles": 196785,
+  "retail_value_usd": [
+   14000,
+   17000
+  ],
+  "private_party_value_usd": [
+   11500,
+   14000
+  ],
+  "estimated_wholesale_usd": [
+   9000,
+   11500
+  ],
+  "max_bid_range_usd": [
+   8000,
+   10000
+  ],
+  "comps": [
+   "KBB 2017 Sierra SLE 173,548mi $17,999",
+   "KBB 2017 Sierra SLE 142,929mi $17,995",
+   "KBB 2017 SLE 4WD 139,923mi $21,700"
+  ],
+  "notes": "Extrapolated; 5.3 V8 AFM lifter issues possible; trucks hold value well."
+ },
+ {
+  "run": "C-069",
+  "car": "2017 GMC Terrain SLE1 AWD 2.4",
+  "miles": 167767,
+  "retail_value_usd": [
+   6500,
+   8000
+  ],
+  "private_party_value_usd": [
+   5000,
+   6500
+  ],
+  "estimated_wholesale_usd": [
+   3800,
+   5500
+  ],
+  "max_bid_range_usd": [
+   2500,
+   3500
+  ],
+  "comps": [
+   "KBB 2017 Terrain SLE FWD 164,450mi $7,495",
+   "KBB 2017 SLE 168,360mi $6,900",
+   "KBB 2017 SLE AWD 141,454mi $7,995"
+  ],
+  "notes": "2.4 Ecotec known for oil consumption/timing chain wear at high miles."
+ },
+ {
+  "run": "A-032",
+  "car": "2017 Honda CR-V (LX) FWD 1.5T",
+  "miles": 86617,
+  "retail_value_usd": [
+   15500,
+   17500
+  ],
+  "private_party_value_usd": [
+   13000,
+   15000
+  ],
+  "estimated_wholesale_usd": [
+   11500,
+   13500
+  ],
+  "max_bid_range_usd": [
+   10000,
+   11500
+  ],
+  "comps": [
+   "KBB 2017 CR-V LX 89,632mi $15,838",
+   "KBB 2017 LX 80,465mi $15,500",
+   "KBB 2017 LX 91,512mi $14,999"
+  ],
+  "notes": "Best retail-liquidity car in batch; 1.5T oil dilution concern in cold climates. Verify trim (listed with no trim; assumed LX/base)."
+ }
+]

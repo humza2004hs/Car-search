@@ -1,0 +1,205 @@
+[
+ {
+  "run": "A-014",
+  "car": "2016 BMW 528i xDrive",
+  "miles": 162076,
+  "retail_value_usd": "8500-10500",
+  "private_party_value_usd": "6000-7500",
+  "estimated_wholesale_usd": "3500-5000",
+  "max_bid_range_usd": "2500-3800",
+  "comps": [
+   "KBB listings 146k mi $9,985",
+   "KBB 134k mi $10,900",
+   "KBB 2016 528i xDrive resale ~$10,550 (avg mi)"
+  ],
+  "notes": "Comps lower mileage; adjusted down for 162k. BMW N20 timing chain/oil leak risk."
+ },
+ {
+  "run": "A-016",
+  "car": "2015 BMW X1 xDrive28i",
+  "miles": 175937,
+  "retail_value_usd": "6500-8500",
+  "private_party_value_usd": "4500-6000",
+  "estimated_wholesale_usd": "2500-3800",
+  "max_bid_range_usd": "1500-2500",
+  "comps": [
+   "Estimate from KBB/CarGurus typical 2015 X1 28i 120-150k ~$8-10k, adjusted for 176k"
+  ],
+  "notes": "Thin direct comps; estimated. N20 engine risk, very high miles."
+ },
+ {
+  "run": "C-052",
+  "car": "2015 Chevrolet Cruze 1.8",
+  "miles": 162294,
+  "retail_value_usd": "4500-6000",
+  "private_party_value_usd": "3000-4200",
+  "estimated_wholesale_usd": "1800-2800",
+  "max_bid_range_usd": "800-1500",
+  "comps": [
+   "Typical 2015 Cruze LS 120-160k asks $5-7k (KBB/CarGurus), adjusted for 162k"
+  ],
+  "notes": "Estimated; low-value economy sedan, margin thin."
+ },
+ {
+  "run": "B-005",
+  "car": "2020 Chevrolet Equinox LT 1.5",
+  "miles": 111552,
+  "retail_value_usd": "12500-15000",
+  "private_party_value_usd": "10000-12500",
+  "estimated_wholesale_usd": "8500-10500",
+  "max_bid_range_usd": "7000-8800",
+  "comps": [
+   "KBB 2020 Equinox LT 111,477 mi $14,495",
+   "KBB 108,293 mi $14,988",
+   "KBB 115,217 mi $14,999"
+  ],
+  "notes": "Good comps; some asks as low as $11.5-12.3k at 112-121k."
+ },
+ {
+  "run": "C-031",
+  "car": "2017 Chevrolet Equinox LS AWD",
+  "miles": 27833,
+  "retail_value_usd": "14500-17000",
+  "private_party_value_usd": "12500-15000",
+  "estimated_wholesale_usd": "11000-13000",
+  "max_bid_range_usd": "9500-11500",
+  "comps": [
+   "Estimate: 2017 Equinox LS AWD low-mile ~$15-17k retail (KBB/CarGurus)"
+  ],
+  "notes": "Mileage 27,833 looks suspicious (possibly 127,833 or odometer typo); verify. If actually ~128k, retail ~$8-9.5k, PP $6-8k, max bid $3.5-5k."
+ },
+ {
+  "run": "A-078",
+  "car": "2017 Chevrolet Equinox LS FWD",
+  "miles": 132985,
+  "retail_value_usd": "7500-9500",
+  "private_party_value_usd": "5500-7500",
+  "estimated_wholesale_usd": "4500-6000",
+  "max_bid_range_usd": "3500-5000",
+  "comps": [
+   "Estimate from KBB/CarGurus 2017 Equinox LS 120-140k asks ~$8-10k"
+  ],
+  "notes": "Estimated from similar listings."
+ },
+ {
+  "run": "C-021",
+  "car": "2016 Chevrolet Impala LS",
+  "miles": 163012,
+  "retail_value_usd": "6500-8500",
+  "private_party_value_usd": "4500-6000",
+  "estimated_wholesale_usd": "3000-4500",
+  "max_bid_range_usd": "2000-3200",
+  "comps": [
+   "Estimate: 2016 Impala LS 130-160k asks ~$7-9k (CarGurus/Autotrader)"
+  ],
+  "notes": "Ex-fleet likely (LS 2.5); estimated."
+ },
+ {
+  "run": "B-089",
+  "car": "2015 Chevrolet Impala 2.5",
+  "miles": 122754,
+  "retail_value_usd": "6500-8500",
+  "private_party_value_usd": "4800-6500",
+  "estimated_wholesale_usd": "3500-4800",
+  "max_bid_range_usd": "2500-3800",
+  "comps": [
+   "Estimate: 2015 Impala LS/LT 110-130k asks ~$7-9k"
+  ],
+  "notes": "Estimated; possible fleet history."
+ },
+ {
+  "run": "B-072",
+  "car": "2017 Chevrolet Malibu 1.5",
+  "miles": 159484,
+  "retail_value_usd": "5500-7500",
+  "private_party_value_usd": "3800-5200",
+  "estimated_wholesale_usd": "2500-3800",
+  "max_bid_range_usd": "1500-2600",
+  "comps": [
+   "Estimate: 2017 Malibu LS/LT 140-160k asks ~$6-8k"
+  ],
+  "notes": "Estimated; trim unknown."
+ },
+ {
+  "run": "B-012",
+  "car": "2018 Chevrolet Silverado 1500 LT 4WD 5.3",
+  "miles": 153973,
+  "retail_value_usd": "16000-19000",
+  "private_party_value_usd": "13500-16000",
+  "estimated_wholesale_usd": "11000-14000",
+  "max_bid_range_usd": "10500-12500",
+  "comps": [
+   "KBB 2018 LT 4WD ~151k mi $16,799",
+   "KBB 149,290 mi $18,495",
+   "KBB 151,544 mi ~$15,000"
+  ],
+  "notes": "Good comps; trucks hold value, auction price likely strong."
+ },
+ {
+  "run": "B-006",
+  "car": "2015 Chevrolet Silverado 1500 LT 4WD 5.3",
+  "miles": 163797,
+  "retail_value_usd": "12000-15000",
+  "private_party_value_usd": "9500-12000",
+  "estimated_wholesale_usd": "7500-10000",
+  "max_bid_range_usd": "7000-9000",
+  "comps": [
+   "Estimate: 2015 LT 4WD 5.3 at 140-170k asks ~$13-16k; derived from 2018 comps scaled down"
+  ],
+  "notes": "Estimated; check for AFM lifter issues."
+ },
+ {
+  "run": "B-008",
+  "car": "2017 Chevrolet Silverado 1500 LTZ 4WD 6.2",
+  "miles": 191537,
+  "retail_value_usd": "17000-20500",
+  "private_party_value_usd": "14000-17000",
+  "estimated_wholesale_usd": "11500-14000",
+  "max_bid_range_usd": "11000-13500",
+  "comps": [
+   "KBB 2017 LTZ 185,344 mi $20,900",
+   "KBB 177,551 mi $21,900",
+   "KBB 147,028 mi $20,586"
+  ],
+  "notes": "Very high miles but 6.2L LTZ demand strong; verify 4WD."
+ },
+ {
+  "run": "C-074",
+  "car": "2017 Chevrolet Sonic Premier 1.4",
+  "miles": 142074,
+  "retail_value_usd": "4500-6000",
+  "private_party_value_usd": "3000-4200",
+  "estimated_wholesale_usd": "1800-2800",
+  "max_bid_range_usd": "800-1500",
+  "comps": [
+   "Estimate: 2017 Sonic Premier 100-140k asks ~$5-7k"
+  ],
+  "notes": "Estimated; thin margin."
+ },
+ {
+  "run": "C-046",
+  "car": "2017 Chevrolet Sonic hatch 1.8",
+  "miles": 178068,
+  "retail_value_usd": "3500-5000",
+  "private_party_value_usd": "2200-3500",
+  "estimated_wholesale_usd": "1200-2200",
+  "max_bid_range_usd": "300-900",
+  "comps": [
+   "Estimate: 2017 Sonic LS/LT hatch 150k+ asks ~$4-5k"
+  ],
+  "notes": "Not worth it unless nearly free; costs eat margin."
+ },
+ {
+  "run": "C-073",
+  "car": "2017 Chevrolet Sonic RS hatch 1.8",
+  "miles": 183811,
+  "retail_value_usd": "3800-5200",
+  "private_party_value_usd": "2500-3800",
+  "estimated_wholesale_usd": "1300-2400",
+  "max_bid_range_usd": "400-1000",
+  "comps": [
+   "Estimate: 2017 Sonic RS 150k+ asks ~$4-5.5k"
+  ],
+  "notes": "Marginal; costs eat margin."
+ }
+]

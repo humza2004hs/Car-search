@@ -1,0 +1,807 @@
+{
+ "A-013": {
+  "trim": "XLT",
+  "eng": "2.3L 4cyl",
+  "drive": "4WD/4-Wheel Drive/4x4",
+  "plant": "UNITED STATES (USA)",
+  "flags": [],
+  "year": "2023",
+  "model": "Explorer"
+ },
+ "C-003": {
+  "trim": "SEL",
+  "eng": "1.5L 3cyl",
+  "drive": "4WD/4-Wheel Drive/4x4",
+  "plant": "UNITED STATES (USA)",
+  "flags": [],
+  "year": "2021",
+  "model": "Escape"
+ },
+ "A-007": {
+  "trim": "Luxe",
+  "eng": "2.0L cyl",
+  "drive": "4WD/4-Wheel Drive/4x4",
+  "plant": "MEXICO",
+  "flags": [],
+  "year": "2021",
+  "model": "QX50"
+ },
+ "B-005": {
+  "trim": "LT (1LT)",
+  "eng": "1.5L 4cyl",
+  "drive": "FWD/Front-Wheel Drive",
+  "plant": "CANADA",
+  "flags": [],
+  "year": "2020",
+  "model": "Equinox"
+ },
+ "A-010": {
+  "trim": "Special Service/Pursuit/Enforcer",
+  "eng": "3.6L 6cyl",
+  "drive": "AWD/All-Wheel Drive",
+  "plant": "UNITED STATES (USA)",
+  "flags": [
+   "POLICE/FLEET"
+  ],
+  "year": "2020",
+  "model": "Durango"
+ },
+ "B-016": {
+  "trim": "GT",
+  "eng": "3.6L 6cyl",
+  "drive": "AWD/All-Wheel Drive",
+  "plant": "UNITED STATES (USA)",
+  "flags": [],
+  "year": "2020",
+  "model": "Durango"
+ },
+ "B-024": {
+  "trim": "SE",
+  "eng": "2.0L 4cyl",
+  "drive": "FWD/Front-Wheel Drive",
+  "plant": "CANADA",
+  "flags": [],
+  "year": "2020",
+  "model": "Edge"
+ },
+ "B-046": {
+  "trim": "S",
+  "eng": "1.5L 3cyl",
+  "drive": "4WD/4-Wheel Drive/4x4",
+  "plant": "UNITED STATES (USA)",
+  "flags": [],
+  "year": "2020",
+  "model": "Escape"
+ },
+ "A-017": {
+  "trim": "XLT",
+  "eng": "2.3L 4cyl",
+  "drive": "4WD/4-Wheel Drive/4x4",
+  "plant": "UNITED STATES (USA)",
+  "flags": [],
+  "year": "2020",
+  "model": "Explorer"
+ },
+ "B-077": {
+  "trim": "SEL, Value Edition & Limited",
+  "eng": "2L 4cyl",
+  "drive": "FWD/Front-Wheel Drive",
+  "plant": "UNITED STATES (USA)",
+  "flags": [],
+  "year": "2020",
+  "model": "Elantra"
+ },
+ "B-007": {
+  "trim": "SV",
+  "eng": "3.5L cyl",
+  "drive": "4x2",
+  "plant": "UNITED STATES (USA)",
+  "flags": [],
+  "year": "2020",
+  "model": "Maxima"
+ },
+ "A-003": {
+  "trim": "Big Horn, Lonestar",
+  "eng": "5.7L 8cyl",
+  "drive": "4WD/4-Wheel Drive/4x4",
+  "plant": "UNITED STATES (USA)",
+  "flags": [],
+  "year": "2020",
+  "model": "1500"
+ },
+ "A-083": {
+  "trim": "LS",
+  "eng": "1.4L 4cyl",
+  "drive": "FWD/Front-Wheel Drive",
+  "plant": "MEXICO",
+  "flags": [],
+  "year": "2019",
+  "model": "Trax"
+ },
+ "C-018": {
+  "trim": "LS",
+  "eng": "1.4L 4cyl",
+  "drive": "FWD/Front-Wheel Drive",
+  "plant": "MEXICO",
+  "flags": [],
+  "year": "2019",
+  "model": "Trax"
+ },
+ "A-005": {
+  "trim": "S",
+  "eng": "2L 4cyl",
+  "drive": "4WD/4-Wheel Drive/4x4",
+  "plant": "INDIA",
+  "flags": [],
+  "year": "2019",
+  "model": "Ecosport"
+ },
+ "C-024": {
+  "trim": "SE",
+  "eng": "1.5L 4cyl",
+  "drive": "4x2",
+  "plant": "UNITED STATES (USA)",
+  "flags": [],
+  "year": "2019",
+  "model": "Escape"
+ },
+ "B-009": {
+  "trim": "Limited",
+  "eng": "3.5L 6cyl",
+  "drive": "FWD/Front-Wheel Drive",
+  "plant": "UNITED STATES (USA)",
+  "flags": [],
+  "year": "2019",
+  "model": "Explorer"
+ },
+ "C-001": {
+  "trim": "SE AWD",
+  "eng": "2.0L 4cyl",
+  "drive": "",
+  "plant": "MEXICO",
+  "flags": [],
+  "year": "2019",
+  "model": "Fusion"
+ },
+ "B-002": {
+  "trim": "SLE 1",
+  "eng": "2.5L 4cyl",
+  "drive": "AWD/All-Wheel Drive",
+  "plant": "UNITED STATES (USA)",
+  "flags": [],
+  "year": "2019",
+  "model": "Acadia"
+ },
+ "A-058": {
+  "trim": "",
+  "eng": "2.5L cyl",
+  "drive": "4WD/4-Wheel Drive/4x4",
+  "plant": "UNITED STATES (USA)",
+  "flags": [],
+  "year": "2019",
+  "model": "Rogue"
+ },
+ "C-027": {
+  "trim": "",
+  "eng": "1.8L cyl",
+  "drive": "4x2",
+  "plant": "MEXICO",
+  "flags": [],
+  "year": "2019",
+  "model": "Sentra"
+ },
+ "B-012": {
+  "trim": "LT",
+  "eng": "5.3L 8cyl",
+  "drive": "4WD/4-Wheel Drive/4x4",
+  "plant": "MEXICO",
+  "flags": [],
+  "year": "2018",
+  "model": "Silverado"
+ },
+ "C-002": {
+  "trim": "SES - 4WD",
+  "eng": "2.0L 4cyl",
+  "drive": "4WD/4-Wheel Drive/4x4",
+  "plant": "INDIA",
+  "flags": [],
+  "year": "2018",
+  "model": "Ecosport"
+ },
+ "A-021": {
+  "trim": "Titanium",
+  "eng": "2.0L 4cyl",
+  "drive": "AWD/All-Wheel Drive",
+  "plant": "CANADA",
+  "flags": [],
+  "year": "2018",
+  "model": "Edge"
+ },
+ "C-025": {
+  "trim": "SE",
+  "eng": "1.5L 4cyl",
+  "drive": "4WD/4-Wheel Drive/4x4",
+  "plant": "UNITED STATES (USA)",
+  "flags": [],
+  "year": "2018",
+  "model": "Escape"
+ },
+ "B-018": {
+  "trim": "Limited",
+  "eng": "3.5L 6cyl",
+  "drive": "4WD/4-Wheel Drive/4x4",
+  "plant": "UNITED STATES (USA)",
+  "flags": [],
+  "year": "2018",
+  "model": "Expedition MAX"
+ },
+ "A-025": {
+  "trim": "SE",
+  "eng": "1.6L 4cyl",
+  "drive": "FWD/Front-Wheel Drive",
+  "plant": "MEXICO",
+  "flags": [],
+  "year": "2018",
+  "model": "Fiesta"
+ },
+ "C-005": {
+  "trim": "SE",
+  "eng": "2.0L 4cyl",
+  "drive": "4x2",
+  "plant": "SOUTH KOREA",
+  "flags": [],
+  "year": "2018",
+  "model": "Kona"
+ },
+ "B-019": {
+  "trim": "",
+  "eng": "3.5L 6cyl",
+  "drive": "4WD/4-Wheel Drive/4x4",
+  "plant": "UNITED STATES (USA)",
+  "flags": [],
+  "year": "2018",
+  "model": "Pathfinder"
+ },
+ "A-033": {
+  "trim": "",
+  "eng": "2.5L 4cyl",
+  "drive": "4WD/4-Wheel Drive/4x4",
+  "plant": "UNITED STATES (USA)",
+  "flags": [],
+  "year": "2018",
+  "model": "Rogue"
+ },
+ "A-024": {
+  "trim": "",
+  "eng": "1.8L 4cyl",
+  "drive": "4x2",
+  "plant": "MEXICO",
+  "flags": [],
+  "year": "2018",
+  "model": "Sentra"
+ },
+ "C-031": {
+  "trim": "LS",
+  "eng": "2.4L 4cyl",
+  "drive": "AWD/All-Wheel Drive",
+  "plant": "CANADA",
+  "flags": [],
+  "year": "2017",
+  "model": "Equinox"
+ },
+ "A-078": {
+  "trim": "LS",
+  "eng": "2.4L 4cyl",
+  "drive": "FWD/Front-Wheel Drive",
+  "plant": "CANADA",
+  "flags": [],
+  "year": "2017",
+  "model": "Equinox"
+ },
+ "B-072": {
+  "trim": "LT (1LT)",
+  "eng": "1.5L 4cyl",
+  "drive": "",
+  "plant": "UNITED STATES (USA)",
+  "flags": [],
+  "year": "2017",
+  "model": "Malibu"
+ },
+ "B-008": {
+  "trim": "LTZ",
+  "eng": "6.2L 8cyl",
+  "drive": "4WD/4-Wheel Drive/4x4",
+  "plant": "MEXICO",
+  "flags": [],
+  "year": "2017",
+  "model": "Silverado"
+ },
+ "C-046": {
+  "trim": "FL",
+  "eng": "1.8L 4cyl",
+  "drive": "",
+  "plant": "UNITED STATES (USA)",
+  "flags": [],
+  "year": "2017",
+  "model": "Sonic"
+ },
+ "C-074": {
+  "trim": "Premier",
+  "eng": "1.4L 4cyl",
+  "drive": "",
+  "plant": "UNITED STATES (USA)",
+  "flags": [],
+  "year": "2017",
+  "model": "Sonic"
+ },
+ "C-073": {
+  "trim": "FL",
+  "eng": "1.8L 4cyl",
+  "drive": "",
+  "plant": "UNITED STATES (USA)",
+  "flags": [],
+  "year": "2017",
+  "model": "Sonic"
+ },
+ "B-025": {
+  "trim": "1LT",
+  "eng": "3.6L 6cyl",
+  "drive": "AWD/All-Wheel Drive",
+  "plant": "UNITED STATES (USA)",
+  "flags": [],
+  "year": "2017",
+  "model": "Traverse"
+ },
+ "A-018": {
+  "trim": "R/T",
+  "eng": "5.7L 8cyl",
+  "drive": "AWD/All-Wheel Drive",
+  "plant": "UNITED STATES (USA)",
+  "flags": [],
+  "year": "2017",
+  "model": "Durango"
+ },
+ "C-071": {
+  "trim": "SXT",
+  "eng": "3.6L 6cyl",
+  "drive": "FWD/Front-Wheel Drive",
+  "plant": "CANADA",
+  "flags": [],
+  "year": "2017",
+  "model": "Grand Caravan"
+ },
+ "C-008": {
+  "trim": "TREKKING",
+  "eng": "2.4L 4cyl",
+  "drive": "FWD/Front-Wheel Drive",
+  "plant": "ITALY",
+  "flags": [],
+  "year": "2017",
+  "model": "500X"
+ },
+ "C-034": {
+  "trim": "SE",
+  "eng": "1.5L 4cyl",
+  "drive": "4x2",
+  "plant": "UNITED STATES (USA)",
+  "flags": [],
+  "year": "2017",
+  "model": "Escape"
+ },
+ "C-033": {
+  "trim": "SE",
+  "eng": "1.5L 4cyl",
+  "drive": "4WD/4-Wheel Drive/4x4",
+  "plant": "UNITED STATES (USA)",
+  "flags": [],
+  "year": "2017",
+  "model": "Escape"
+ },
+ "A-023": {
+  "trim": "SE",
+  "eng": "1.5L 4cyl",
+  "drive": "4WD/4-Wheel Drive/4x4",
+  "plant": "UNITED STATES (USA)",
+  "flags": [],
+  "year": "2017",
+  "model": "Escape"
+ },
+ "A-076": {
+  "trim": "Police",
+  "eng": "3.7L 6cyl",
+  "drive": "4WD/4-Wheel Drive/4x4",
+  "plant": "UNITED STATES (USA)",
+  "flags": [
+   "POLICE/FLEET"
+  ],
+  "year": "2017",
+  "model": "Explorer"
+ },
+ "A-067": {
+  "trim": "SLE",
+  "eng": "5.3L 8cyl",
+  "drive": "4WD/4-Wheel Drive/4x4",
+  "plant": "UNITED STATES (USA)",
+  "flags": [],
+  "year": "2017",
+  "model": "Sierra"
+ },
+ "C-069": {
+  "trim": "SLE 1",
+  "eng": "2.4L 4cyl",
+  "drive": "AWD/All-Wheel Drive",
+  "plant": "CANADA",
+  "flags": [],
+  "year": "2017",
+  "model": "Terrain"
+ },
+ "A-032": {
+  "trim": "EX",
+  "eng": "1.5L 4cyl",
+  "drive": "4x2",
+  "plant": "UNITED STATES (USA)",
+  "flags": [],
+  "year": "2017",
+  "model": "CR-V"
+ },
+ "B-085": {
+  "trim": "GI",
+  "eng": "3.3L 6cyl",
+  "drive": "4WD/4-Wheel Drive/4x4",
+  "plant": "SOUTH KOREA",
+  "flags": [],
+  "year": "2017",
+  "model": "Santa Fe"
+ },
+ "B-022": {
+  "trim": "Sport Value Pkg ,Sport Premium pkg, Sport Tech pkg ,Sport 2.0T Base",
+  "eng": "2.4L 4cyl",
+  "drive": "4WD/4-Wheel Drive/4x4",
+  "plant": "UNITED STATES (USA)",
+  "flags": [],
+  "year": "2017",
+  "model": "Santa Fe Sport"
+ },
+ "C-068": {
+  "trim": "Limited",
+  "eng": "2.4L 4cyl",
+  "drive": "4WD/4-Wheel Drive/4x4",
+  "plant": "MEXICO",
+  "flags": [],
+  "year": "2017",
+  "model": "Compass"
+ },
+ "A-077": {
+  "trim": "Limited",
+  "eng": "3.2L 6cyl",
+  "drive": "4WD/4-Wheel Drive/4x4",
+  "plant": "UNITED STATES (USA)",
+  "flags": [],
+  "year": "2017",
+  "model": "Cherokee"
+ },
+ "A-012": {
+  "trim": "Limited",
+  "eng": "3.6L 6cyl",
+  "drive": "4WD/4-Wheel Drive/4x4",
+  "plant": "UNITED STATES (USA)",
+  "flags": [],
+  "year": "2017",
+  "model": "Grand Cherokee"
+ },
+ "A-009": {
+  "trim": "S",
+  "eng": "1.4L 4cyl",
+  "drive": "FWD/Front-Wheel Drive",
+  "plant": "MEXICO",
+  "flags": [],
+  "year": "2017",
+  "model": "Jetta"
+ },
+ "A-014": {
+  "trim": "xDrive",
+  "eng": "2L 4cyl",
+  "drive": "AWD/All-Wheel Drive",
+  "plant": "GERMANY",
+  "flags": [],
+  "year": "2016",
+  "model": "528i"
+ },
+ "C-021": {
+  "trim": "LS (1FL)",
+  "eng": "2.5L 4cyl",
+  "drive": "",
+  "plant": "CANADA",
+  "flags": [],
+  "year": "2016",
+  "model": "Impala"
+ },
+ "A-056": {
+  "trim": "LS",
+  "eng": "3.6L 6cyl",
+  "drive": "AWD/All-Wheel Drive",
+  "plant": "UNITED STATES (USA)",
+  "flags": [],
+  "year": "2016",
+  "model": "Traverse"
+ },
+ "B-013": {
+  "trim": "SE",
+  "eng": "2.0L 4cyl",
+  "drive": "AWD/All-Wheel Drive",
+  "plant": "CANADA",
+  "flags": [],
+  "year": "2016",
+  "model": "Edge"
+ },
+ "A-044": {
+  "trim": "SE",
+  "eng": "2.0L 4cyl",
+  "drive": "",
+  "plant": "UNITED STATES (USA)",
+  "flags": [],
+  "year": "2016",
+  "model": "Focus"
+ },
+ "A-035": {
+  "trim": "SE",
+  "eng": "2.3L 4cyl",
+  "drive": "4WD/4-Wheel Drive/4x4",
+  "plant": "CANADA",
+  "flags": [],
+  "year": "2016",
+  "model": "CR-V"
+ },
+ "A-059": {
+  "trim": "SE / Value Edition/ Limited",
+  "eng": "1.8L 4cyl",
+  "drive": "",
+  "plant": "UNITED STATES (USA)",
+  "flags": [],
+  "year": "2016",
+  "model": "Elantra"
+ },
+ "B-026": {
+  "trim": "Plus",
+  "eng": "1.6L 4cyl",
+  "drive": "",
+  "plant": "SOUTH KOREA",
+  "flags": [],
+  "year": "2016",
+  "model": "Soul"
+ },
+ "C-041": {
+  "trim": "",
+  "eng": "3.7L 6cyl",
+  "drive": "AWD/All-Wheel Drive",
+  "plant": "MEXICO",
+  "flags": [],
+  "year": "2016",
+  "model": "MKZ"
+ },
+ "A-084": {
+  "trim": "Touring",
+  "eng": "2.5L 4cyl",
+  "drive": "4WD/4-Wheel Drive/4x4",
+  "plant": "JAPAN",
+  "flags": [],
+  "year": "2016",
+  "model": "CX-9"
+ },
+ "A-040": {
+  "trim": "Premium Plus",
+  "eng": "2.0L 4cyl",
+  "drive": "AWD/All-Wheel Drive",
+  "plant": "JAPAN",
+  "flags": [],
+  "year": "2016",
+  "model": "Impreza"
+ },
+ "C-064": {
+  "trim": "Limited + MR + ES + NAVI",
+  "eng": "2.5L 4cyl",
+  "drive": "AWD/All-Wheel Drive",
+  "plant": "INDIA",
+  "flags": [],
+  "year": "2016",
+  "model": "Legacy"
+ },
+ "C-072": {
+  "trim": "SV42 Momentum",
+  "eng": "2L 4cyl",
+  "drive": "AWD/All-Wheel Drive",
+  "plant": "SWEDEN",
+  "flags": [],
+  "year": "2016",
+  "model": "XC90"
+ },
+ "A-016": {
+  "trim": "xDrive28i",
+  "eng": "2.0L 4cyl",
+  "drive": "AWD/All-Wheel Drive",
+  "plant": "GERMANY",
+  "flags": [],
+  "year": "2015",
+  "model": "X1"
+ },
+ "C-052": {
+  "trim": "LS",
+  "eng": "1.8L 4cyl",
+  "drive": "",
+  "plant": "UNITED STATES (USA)",
+  "flags": [],
+  "year": "2015",
+  "model": "Cruze"
+ },
+ "B-089": {
+  "trim": "Eco (1SA)",
+  "eng": "2.5L 4cyl",
+  "drive": "",
+  "plant": "CANADA",
+  "flags": [],
+  "year": "2015",
+  "model": "Impala"
+ },
+ "B-006": {
+  "trim": "LT",
+  "eng": "5.3L 8cyl",
+  "drive": "4WD/4-Wheel Drive/4x4",
+  "plant": "UNITED STATES (USA)",
+  "flags": [],
+  "year": "2015",
+  "model": "Silverado"
+ },
+ "C-026": {
+  "trim": "LTZ",
+  "eng": "1.4L 4cyl",
+  "drive": "FWD/Front-Wheel Drive",
+  "plant": "SOUTH KOREA",
+  "flags": [],
+  "year": "2015",
+  "model": "Trax"
+ },
+ "B-060": {
+  "trim": "Citadel",
+  "eng": "5.7L 8cyl",
+  "drive": "AWD/All-Wheel Drive",
+  "plant": "UNITED STATES (USA)",
+  "flags": [],
+  "year": "2015",
+  "model": "Durango"
+ },
+ "C-038": {
+  "trim": "Titanium",
+  "eng": "2.0L 4cyl",
+  "drive": "4WD/4-Wheel Drive/4x4",
+  "plant": "UNITED STATES (USA)",
+  "flags": [],
+  "year": "2015",
+  "model": "Escape"
+ },
+ "B-023": {
+  "trim": "Base",
+  "eng": "3.5L 6cyl",
+  "drive": "4WD/4-Wheel Drive/4x4",
+  "plant": "UNITED STATES (USA)",
+  "flags": [],
+  "year": "2015",
+  "model": "Explorer"
+ },
+ "A-065": {
+  "trim": "",
+  "eng": "2.7L 6cyl",
+  "drive": "4x2",
+  "plant": "UNITED STATES (USA)",
+  "flags": [],
+  "year": "2015",
+  "model": "F-150"
+ },
+ "A-075": {
+  "trim": "GLS(Middle)",
+  "eng": "2.4L cyl",
+  "drive": "",
+  "plant": "SOUTH KOREA",
+  "flags": [],
+  "year": "2015",
+  "model": "Sonata"
+ },
+ "C-050": {
+  "trim": "",
+  "eng": "3.5L 6cyl",
+  "drive": "4WD/4-Wheel Drive/4x4",
+  "plant": "UNITED STATES (USA)",
+  "flags": [],
+  "year": "2015",
+  "model": "QX60"
+ },
+ "C-037": {
+  "trim": "Latitude (US-Mex.), North(Can)",
+  "eng": "2.4L 4cyl",
+  "drive": "AWD/All-Wheel Drive",
+  "plant": "ITALY",
+  "flags": [],
+  "year": "2015",
+  "model": "Renegade"
+ },
+ "B-074": {
+  "trim": "TOP",
+  "eng": "3.3L 6cyl",
+  "drive": "4WD/4-Wheel Drive/4x4",
+  "plant": "UNITED STATES (USA)",
+  "flags": [],
+  "year": "2015",
+  "model": "Sorento"
+ },
+ "C-051": {
+  "trim": "",
+  "eng": "2.5L 4cyl",
+  "drive": "FWD/Front-Wheel Drive",
+  "plant": "UNITED STATES (USA)",
+  "flags": [],
+  "year": "2015",
+  "model": "Altima"
+ },
+ "A-055": {
+  "trim": "",
+  "eng": "3.5L 6cyl",
+  "drive": "4x2",
+  "plant": "UNITED STATES (USA)",
+  "flags": [],
+  "year": "2015",
+  "model": "Murano"
+ },
+ "A-006": {
+  "trim": "",
+  "eng": "1.8L 4cyl",
+  "drive": "FWD/Front-Wheel Drive",
+  "plant": "MEXICO",
+  "flags": [],
+  "year": "2015",
+  "model": "Sentra"
+ },
+ "B-080": {
+  "trim": "",
+  "eng": "1.6L cyl",
+  "drive": "FWD/Front-Wheel Drive",
+  "plant": "MEXICO",
+  "flags": [],
+  "year": "2015",
+  "model": "Versa"
+ },
+ "C-049": {
+  "trim": "Sport",
+  "eng": "5.7L 8cyl",
+  "drive": "4WD/4-Wheel Drive/4x4",
+  "plant": "UNITED STATES (USA)",
+  "flags": [],
+  "year": "2015",
+  "model": "1500"
+ },
+ "B-028": {
+  "trim": "Premium+All Weather Package+Moonroof",
+  "eng": "2.5L 4cyl",
+  "drive": "AWD/All-Wheel Drive",
+  "plant": "UNITED STATES (USA)",
+  "flags": [],
+  "year": "2015",
+  "model": "Outback"
+ },
+ "A-068": {
+  "trim": "GSX40L/AVX40L",
+  "eng": "3.5L 6cyl",
+  "drive": "4x2",
+  "plant": "UNITED STATES (USA)",
+  "flags": [],
+  "year": "2015",
+  "model": "Avalon"
+ },
+ "A-002": {
+  "trim": "L/LE",
+  "eng": "1.8L 4cyl",
+  "drive": "4x2",
+  "plant": "CANADA",
+  "flags": [],
+  "year": "2015",
+  "model": "Corolla"
+ }
+}

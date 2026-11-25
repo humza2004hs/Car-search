@@ -1,0 +1,346 @@
+[
+ {
+  "run": "C-027",
+  "car": "2019 Nissan Sentra FWD 1.8",
+  "miles": 136875,
+  "retail_value_usd": [
+   8500,
+   9500
+  ],
+  "private_party_value_usd": [
+   6800,
+   8000
+  ],
+  "estimated_wholesale_usd": [
+   5000,
+   6000
+  ],
+  "max_bid_range_usd": [
+   3800,
+   4800
+  ],
+  "comps": [
+   "2019 Sentra S 138,759mi $9,950 (KBB)",
+   "2019 Sentra SV 139,635mi $8,999 (KBB)",
+   "2019 Sentra S 135,831mi $8,456 (KBB)"
+  ],
+  "notes": "CVT; check for CVT service history"
+ },
+ {
+  "run": "A-024",
+  "car": "2018 Nissan Sentra FWD 1.8",
+  "miles": 153994,
+  "retail_value_usd": [
+   7000,
+   8000
+  ],
+  "private_party_value_usd": [
+   5300,
+   6500
+  ],
+  "estimated_wholesale_usd": [
+   3800,
+   4800
+  ],
+  "max_bid_range_usd": [
+   2800,
+   3600
+  ],
+  "comps": [
+   "2018 Sentra SV 140k $7,950 (KBB)",
+   "2018 Sentra SR 150,559mi $8,999 (KBB)",
+   "2018 Sentra SV ~165k $5,995 (KBB)"
+  ],
+  "notes": "CVT risk at high miles"
+ },
+ {
+  "run": "A-006",
+  "car": "2015 Nissan Sentra SV FWD 1.8",
+  "miles": 127539,
+  "retail_value_usd": [
+   6500,
+   7500
+  ],
+  "private_party_value_usd": [
+   4800,
+   5800
+  ],
+  "estimated_wholesale_usd": [
+   3300,
+   4300
+  ],
+  "max_bid_range_usd": [
+   2300,
+   3000
+  ],
+  "comps": [
+   "Extrapolated from 2018-19 Sentra comps and age adjustment (KBB/iSeeCars)"
+  ],
+  "notes": "Early CVT reliability concerns; estimate less comp-backed"
+ },
+ {
+  "run": "B-080",
+  "car": "2015 Nissan Versa S FWD 1.6",
+  "miles": 198876,
+  "retail_value_usd": [
+   3000,
+   3900
+  ],
+  "private_party_value_usd": [
+   2000,
+   2800
+  ],
+  "estimated_wholesale_usd": [
+   1200,
+   1900
+  ],
+  "max_bid_range_usd": [
+   300,
+   800
+  ],
+  "comps": [
+   "2015 Versa S 187,830mi $4,199 (KBB)",
+   "2015 Versa S 182k $2,900 (iSeeCars)",
+   "2015 Versa S Plus 181,930mi $3,495 (KBB)"
+  ],
+  "notes": "Fees ~$1,700 consume most of the value; only bid very low"
+ },
+ {
+  "run": "A-003",
+  "car": "2020 Ram 1500 Big Horn 4WD 5.7",
+  "miles": 191764,
+  "retail_value_usd": [
+   17000,
+   20000
+  ],
+  "private_party_value_usd": [
+   14500,
+   17000
+  ],
+  "estimated_wholesale_usd": [
+   10500,
+   13500
+  ],
+  "max_bid_range_usd": [
+   11000,
+   13000
+  ],
+  "comps": [
+   "2020 Big Horn 4WD 180,695mi $19,995 (KBB)",
+   "2020 Big Horn ~127k $23,995 (KBB)",
+   "2020 Big Horn ~130k $22,989 (KBB)"
+  ],
+  "notes": "Hemi/eTorque risk at 190k; comps extrapolated from 180k listing"
+ },
+ {
+  "run": "C-049",
+  "car": "2015 Ram 1500 4WD 5.7",
+  "miles": 211485,
+  "retail_value_usd": [
+   9500,
+   11500
+  ],
+  "private_party_value_usd": [
+   7500,
+   9500
+  ],
+  "estimated_wholesale_usd": [
+   5500,
+   7500
+  ],
+  "max_bid_range_usd": [
+   4800,
+   6300
+  ],
+  "comps": [
+   "2015 Ram 1500 Express 5.7 201,363mi $10,995 (KBB)",
+   "2015 Ram 1500 Sport 4x4 162,633mi $14,990 (Westlake)"
+  ],
+  "notes": "Trim unknown; Hemi lifter/MDS issues at 200k+"
+ },
+ {
+  "run": "A-040",
+  "car": "2016 Subaru Impreza Premium Plus AWD 2.0",
+  "miles": 118928,
+  "retail_value_usd": [
+   9500,
+   11500
+  ],
+  "private_party_value_usd": [
+   7500,
+   9000
+  ],
+  "estimated_wholesale_usd": [
+   6000,
+   7500
+  ],
+  "max_bid_range_usd": [
+   4800,
+   6000
+  ],
+  "comps": [
+   "No direct 2016 Impreza comps found; Outback/Legacy 2016 at ~121-125k $9k-$12k (KBB)"
+  ],
+  "notes": "Estimate scaled from Subaru comps; CVT"
+ },
+ {
+  "run": "C-064",
+  "car": "2016 Subaru Legacy AWD 2.5",
+  "miles": 170253,
+  "retail_value_usd": [
+   7500,
+   9000
+  ],
+  "private_party_value_usd": [
+   5800,
+   7200
+  ],
+  "estimated_wholesale_usd": [
+   4300,
+   5500
+  ],
+  "max_bid_range_usd": [
+   3300,
+   4500
+  ],
+  "comps": [
+   "2016 Legacy 2.5i Premium 121,363mi $8,999 (KBB)",
+   "2016 Legacy 3.6R 126k $10,950 (KBB)"
+  ],
+  "notes": "Mileage 50k above comps; adjusted down; head gasket/CVT/oil use risk"
+ },
+ {
+  "run": "B-028",
+  "car": "2015 Subaru Outback AWD 2.5",
+  "miles": 144197,
+  "retail_value_usd": [
+   9000,
+   11000
+  ],
+  "private_party_value_usd": [
+   7000,
+   8500
+  ],
+  "estimated_wholesale_usd": [
+   5500,
+   7000
+  ],
+  "max_bid_range_usd": [
+   4500,
+   5800
+  ],
+  "comps": [
+   "2016 Outback 2.5i Premium 125,437mi $11,995 (KBB)",
+   "2016 Outback 2.5i Limited 121,368mi $11,999 (KBB)"
+  ],
+  "notes": "2015 vs 2016 and higher miles adjusted down"
+ },
+ {
+  "run": "A-068",
+  "car": "2015 Toyota Avalon XLE FWD 3.5",
+  "miles": 194157,
+  "retail_value_usd": [
+   8500,
+   10000
+  ],
+  "private_party_value_usd": [
+   6800,
+   8300
+  ],
+  "estimated_wholesale_usd": [
+   5000,
+   6500
+  ],
+  "max_bid_range_usd": [
+   4200,
+   5400
+  ],
+  "comps": [
+   "2015 Avalon XLE 194,737mi $8,995 (KBB)",
+   "2015 Avalon XLE 174,453mi $9,730 (CarGurus)",
+   "2015 Avalon XLE Touring 202,069mi $7,995 (iSeeCars)"
+  ],
+  "notes": "Durable powertrain; good comp match"
+ },
+ {
+  "run": "A-002",
+  "car": "2015 Toyota Corolla LE FWD 1.8",
+  "miles": 135850,
+  "retail_value_usd": [
+   9500,
+   10900
+  ],
+  "private_party_value_usd": [
+   7500,
+   9000
+  ],
+  "estimated_wholesale_usd": [
+   6000,
+   7500
+  ],
+  "max_bid_range_usd": [
+   4800,
+   6000
+  ],
+  "comps": [
+   "2015 Corolla LE 135,239mi $9,995 (Westlake)",
+   "2015 Corolla LE 136,500mi $10,889 (PA dealer)",
+   "2015 Corolla LE 136,900mi $10,495 (OR dealer)"
+  ],
+  "notes": "Strong comps; desirable"
+ },
+ {
+  "run": "A-009",
+  "car": "2017 Volkswagen Jetta 1.4T S FWD",
+  "miles": 160965,
+  "retail_value_usd": [
+   6500,
+   8000
+  ],
+  "private_party_value_usd": [
+   5000,
+   6300
+  ],
+  "estimated_wholesale_usd": [
+   3500,
+   4800
+  ],
+  "max_bid_range_usd": [
+   2800,
+   3800
+  ],
+  "comps": [
+   "2017 Jetta SE 158,879mi $8,400",
+   "2017 Jetta S 108,511mi $5,895",
+   "KBB FPP 1.4T S $8,525 typical miles"
+  ],
+  "notes": "Turbo 1.4 at 160k; weak comps"
+ },
+ {
+  "run": "C-072",
+  "car": "2016 Volvo XC90 T6 AWD 2.0",
+  "miles": 98447,
+  "retail_value_usd": [
+   13000,
+   17000
+  ],
+  "private_party_value_usd": [
+   11000,
+   13500
+  ],
+  "estimated_wholesale_usd": [
+   8500,
+   11000
+  ],
+  "max_bid_range_usd": [
+   7500,
+   9500
+  ],
+  "comps": [
+   "2016 XC90 T6 Momentum 100,074mi $16,995 (MI dealer)",
+   "2016 XC90 Momentum 102,325mi $15,950 (KBB)",
+   "2016 XC90 Momentum 101,644mi $12,966 (KBB)"
+  ],
+  "notes": "Supercharged+turbo engine, costly repairs; bid toward low end"
+ }
+]

@@ -1,0 +1,902 @@
+[
+ {
+  "year": 2023,
+  "desc": "Ford Explorer XLT 4WD 4 Door Wagon 2.3 4cyl. Gasoline",
+  "run": "A-013",
+  "vin": "1FMSK8DH9PGA98749",
+  "color": "SILVER",
+  "odo": "162,451",
+  "title": "At Auction",
+  "light": "R"
+ },
+ {
+  "year": 2021,
+  "desc": "Ford Escape 4WD 4 Door Wagon 1.5 3cyl. Gasoline",
+  "run": "C-003",
+  "vin": "1FMCU9H6XMUA61896",
+  "color": "BLUE",
+  "odo": "113,927",
+  "title": "Title Absent",
+  "light": "--"
+ },
+ {
+  "year": 2021,
+  "desc": "INFINITI QX50 Luxe AWD 4 Door Wagon 2.0 4cyl. Gasoline",
+  "run": "A-007",
+  "vin": "3PCAJ5BB9MF103079",
+  "color": "BLACK",
+  "odo": "186,112",
+  "title": "At Auction",
+  "light": "R"
+ },
+ {
+  "year": 2020,
+  "desc": "Chevrolet Equinox LT (1LT) FWD 4 Door Wagon 1.5 4cyl. Gasoline",
+  "run": "B-005",
+  "vin": "2GNAXKEVXL6208437",
+  "color": "WHITE",
+  "odo": "111,552",
+  "title": "At Auction",
+  "light": "R"
+ },
+ {
+  "year": 2020,
+  "desc": "Dodge Durango AWD 4 Door Wagon 3.6 6cyl. Gasoline",
+  "run": "A-010",
+  "vin": "1C4RDJFG4LC406081",
+  "color": "WHITE",
+  "odo": "38,857",
+  "title": "At Auction",
+  "light": "R"
+ },
+ {
+  "year": 2020,
+  "desc": "Dodge Durango GT AWD 4 Door Wagon 3.6 6cyl. Gasoline",
+  "run": "B-016",
+  "vin": "1C4RDJDG2LC308539",
+  "color": "BLACK",
+  "odo": "237,888",
+  "title": "At Auction",
+  "light": "R"
+ },
+ {
+  "year": 2020,
+  "desc": "Ford Edge SE FWD 4 Door Wagon 2.0 4cyl. Gasoline",
+  "run": "B-024",
+  "vin": "2FMPK3G94LBB26407",
+  "color": "BLACK",
+  "odo": "103,907",
+  "title": "At Auction",
+  "light": "R"
+ },
+ {
+  "year": 2020,
+  "desc": "Ford Escape 4WD 4 Door Wagon 1.5 3cyl. Gasoline",
+  "run": "B-046",
+  "vin": "1FMCU9F67LUB47328",
+  "color": "GRAY",
+  "odo": "106,347",
+  "title": "Title Absent",
+  "light": "--"
+ },
+ {
+  "year": 2020,
+  "desc": "Ford Explorer XLT 4WD 4 Door Wagon 2.3 4cyl. Gasoline",
+  "run": "A-017",
+  "vin": "1FMSK8DH5LGA32693",
+  "color": "GRAY",
+  "odo": "184,097",
+  "title": "At Auction",
+  "light": "R"
+ },
+ {
+  "year": 2020,
+  "desc": "Hyundai Elantra FWD 4 Door Sedan 2.0 4cyl. Gasoline",
+  "run": "B-077",
+  "vin": "5NPD84LF0LH564188",
+  "color": "GRAY",
+  "odo": "176,616",
+  "title": "Title Absent",
+  "light": "--"
+ },
+ {
+  "year": 2020,
+  "desc": "Nissan Maxima SV FWD 4 Door Sedan 3.5 6cyl. Gasoline",
+  "run": "B-007",
+  "vin": "1N4AA6CV9LC360100",
+  "color": "GRAY",
+  "odo": "185,616",
+  "title": "Title Absent",
+  "light": "--"
+ },
+ {
+  "year": 2020,
+  "desc": "Ram 1500 Big Horn 4WD 4 Door Pickup Truck 5.7 8cyl. Gasoline",
+  "run": "A-003",
+  "vin": "1C6SRFFT7LN403877",
+  "color": "SILVER",
+  "odo": "191,764",
+  "title": "Title Absent",
+  "light": "--"
+ },
+ {
+  "year": 2019,
+  "desc": "Chevrolet Express Cargo RWD 3 Door Van 6.0 8cyl. Gasoline",
+  "run": "B-004",
+  "vin": "1GCWGAFG4K1179883",
+  "color": "WHITE",
+  "odo": "157,307",
+  "title": "At Auction",
+  "light": "R"
+ },
+ {
+  "year": 2019,
+  "desc": "Chevrolet Trax FWD 4 Door Wagon 1.4 4cyl. Gasoline",
+  "run": "A-083",
+  "vin": "3GNCJKSB6KL395478",
+  "color": "BLACK",
+  "odo": "112,979",
+  "title": "At Auction",
+  "light": "R"
+ },
+ {
+  "year": 2019,
+  "desc": "Chevrolet Trax LS FWD 4 Door Wagon 1.4 4cyl. Gasoline",
+  "run": "C-018",
+  "vin": "3GNCJKSB9KL251892",
+  "color": "GRAY",
+  "odo": "147,677",
+  "title": "At Auction",
+  "light": "R"
+ },
+ {
+  "year": 2019,
+  "desc": "Ford EcoSport S 4WD 4 Door Wagon 2.0 4cyl. Gasoline",
+  "run": "A-005",
+  "vin": "MAJ6S3FLXKC284154",
+  "color": "WHITE",
+  "odo": "61,466",
+  "title": "Title Absent",
+  "light": "--"
+ },
+ {
+  "year": 2019,
+  "desc": "Ford Escape FWD 4 Door Wagon 1.5 4cyl. Gasoline",
+  "run": "C-024",
+  "vin": "1FMCU0GD7KUA31621",
+  "color": "GRAY",
+  "odo": "107,622",
+  "title": "At Auction",
+  "light": "R"
+ },
+ {
+  "year": 2019,
+  "desc": "Ford Explorer Limited FWD 4 Door Wagon 3.5 6cyl. Gasoline",
+  "run": "B-009",
+  "vin": "1FM5K7F80KGB48564",
+  "color": "GRAY",
+  "odo": "132,696",
+  "title": "Title Absent",
+  "light": "--"
+ },
+ {
+  "year": 2019,
+  "desc": "Ford Fusion SE AWD 4 Door Sedan 2.0 4cyl. Gasoline",
+  "run": "C-001",
+  "vin": "3FA6P0T99KR282034",
+  "color": "WHITE",
+  "odo": "118,449",
+  "title": "Title Absent",
+  "light": "--"
+ },
+ {
+  "year": 2019,
+  "desc": "GMC Acadia SLE1 AWD 4 Door Wagon 2.5 4cyl. Gasoline",
+  "run": "B-002",
+  "vin": "1GKKNRLA5KZ296462",
+  "color": "BLACK",
+  "odo": "100,606",
+  "title": "At Auction",
+  "light": "R"
+ },
+ {
+  "year": 2019,
+  "desc": "Nissan Rogue AWD 4 Door Wagon 2.5 4cyl. Gasoline",
+  "run": "A-058",
+  "vin": "5N1AT2MV4KC827218",
+  "color": "BLUE",
+  "odo": "126,138",
+  "title": "At Auction",
+  "light": "R"
+ },
+ {
+  "year": 2019,
+  "desc": "Nissan Sentra FWD 4 Door Sedan 1.8 4cyl. Gasoline",
+  "run": "C-027",
+  "vin": "3N1AB7AP6KY316310",
+  "color": "BLUE",
+  "odo": "136,875",
+  "title": "At Auction",
+  "light": "R"
+ },
+ {
+  "year": 2018,
+  "desc": "Chevrolet Silverado 1500 LT 4WD 4 Door Pickup Truck 5.3 8cyl. Gasoline",
+  "run": "B-012",
+  "vin": "3GCUKREC0JG136757",
+  "color": "BLACK",
+  "odo": "153,973",
+  "title": "At Auction",
+  "light": "R"
+ },
+ {
+  "year": 2018,
+  "desc": "Ford EcoSport 4WD 4 Door Wagon 2.0 4cyl. Gasoline",
+  "run": "C-002",
+  "vin": "MAJ6P1CL6JC207306",
+  "color": "GRAY",
+  "odo": "105,701",
+  "title": "Title Absent",
+  "light": "--"
+ },
+ {
+  "year": 2018,
+  "desc": "Ford Edge Titanium AWD 4 Door Wagon 2.0 4cyl. Gasoline",
+  "run": "A-021",
+  "vin": "2FMPK4K91JBB06867",
+  "color": "GRAY",
+  "odo": "167,647",
+  "title": "At Auction",
+  "light": "R"
+ },
+ {
+  "year": 2018,
+  "desc": "Ford Escape SE 4WD 4 Door Wagon 1.5 4cyl. Gasoline",
+  "run": "C-025",
+  "vin": "1FMCU9GD6JUA13534",
+  "color": "RED",
+  "odo": "105,120",
+  "title": "Title Absent",
+  "light": "--"
+ },
+ {
+  "year": 2018,
+  "desc": "Ford Expedition Max LIMIT 4WD 4 Door Wagon 3.5 6cyl. Gasoline",
+  "run": "B-018",
+  "vin": "1FMJK2AT1JEA07221",
+  "color": "WHITE",
+  "odo": "114,272",
+  "title": "At Auction",
+  "light": "R"
+ },
+ {
+  "year": 2018,
+  "desc": "Ford Fiesta SE FWD 4 Door Sedan 1.6 4cyl. Gasoline",
+  "run": "A-025",
+  "vin": "3FADP4BJ5JM138292",
+  "color": "ORANGE",
+  "odo": "97,007",
+  "title": "Title Absent",
+  "light": "--"
+ },
+ {
+  "year": 2018,
+  "desc": "Hyundai Kona SE FWD 4 Door Wagon 2.0 4cyl. Gasoline",
+  "run": "C-005",
+  "vin": "KM8K12AA9JU067906",
+  "color": "BLACK",
+  "odo": "159,023",
+  "title": "At Auction",
+  "light": "R"
+ },
+ {
+  "year": 2018,
+  "desc": "Nissan Pathfinder SV 4WD 4 Door Wagon 3.5 6cyl. Gasoline",
+  "run": "B-019",
+  "vin": "5N1DR2MM5JC663088",
+  "color": "BLACK",
+  "odo": "143,090",
+  "title": "At Auction",
+  "light": "R"
+ },
+ {
+  "year": 2018,
+  "desc": "Nissan Rogue SV AWD 4 Door Wagon 2.5 4cyl. Gasoline",
+  "run": "A-033",
+  "vin": "5N1AT2MV4JC852781",
+  "color": "SILVER",
+  "odo": "120,799",
+  "title": "At Auction",
+  "light": "R"
+ },
+ {
+  "year": 2018,
+  "desc": "Nissan Sentra FWD 4 Door Sedan 1.8 4cyl. Gasoline",
+  "run": "A-024",
+  "vin": "3N1AB7AP6JY281783",
+  "color": "SILVER",
+  "odo": "153,994",
+  "title": "Title Absent",
+  "light": "--"
+ },
+ {
+  "year": 2017,
+  "desc": "Chevrolet Equinox LS AWD 4 Door Wagon 2.4 4cyl. Flex Fuel",
+  "run": "C-031",
+  "vin": "2GNFLEEK0H6299864",
+  "color": "WHITE",
+  "odo": "27,833",
+  "title": "Title Absent",
+  "light": "--"
+ },
+ {
+  "year": 2017,
+  "desc": "Chevrolet Equinox LS FWD 4 Door Wagon 2.4 4cyl. Flex Fuel",
+  "run": "A-078",
+  "vin": "2GNALBEK5H1538668",
+  "color": "BLUE",
+  "odo": "132,985",
+  "title": "At Auction",
+  "light": "R"
+ },
+ {
+  "year": 2017,
+  "desc": "Chevrolet Malibu FWD 4 Door Sedan 1.5 4cyl. Gasoline",
+  "run": "B-072",
+  "vin": "1G1ZE5ST8HF103309",
+  "color": "BLACK",
+  "odo": "159,484",
+  "title": "At Auction",
+  "light": "R"
+ },
+ {
+  "year": 2017,
+  "desc": "Chevrolet Silverado 1500 LTZ 4WD 4 Door Pickup Truck 6.2 8cyl. Gasoline",
+  "run": "B-008",
+  "vin": "3GCUKSEJXHG152075",
+  "color": "BLACK",
+  "odo": "191,537",
+  "title": "At Auction",
+  "light": "R"
+ },
+ {
+  "year": 2017,
+  "desc": "Chevrolet Sonic FWD 4 Door Hatch Back 1.8 4cyl. Flex Fuel",
+  "run": "C-046",
+  "vin": "1G1JG6SH1H4152453",
+  "color": "WHITE",
+  "odo": "178,068",
+  "title": "Title Absent",
+  "light": "--"
+ },
+ {
+  "year": 2017,
+  "desc": "Chevrolet Sonic Premier FWD 4 Door Sedan 1.4 4cyl. Gasoline",
+  "run": "C-074",
+  "vin": "1G1JF5SB2H4135119",
+  "color": "RED",
+  "odo": "142,074",
+  "title": "At Auction",
+  "light": "R"
+ },
+ {
+  "year": 2017,
+  "desc": "Chevrolet Sonic RS FWD 4 Door Hatch Back 1.8 4cyl. Gasoline",
+  "run": "C-073",
+  "vin": "1G1JG6SGXH4174894",
+  "color": "WHITE",
+  "odo": "183,811",
+  "title": "At Auction",
+  "light": "R"
+ },
+ {
+  "year": 2017,
+  "desc": "Chevrolet Traverse 1LT AWD 4 Door Wagon 3.6 6cyl. Gasoline",
+  "run": "B-025",
+  "vin": "1GNKVGKD0HJ193430",
+  "color": "WHITE",
+  "odo": "144,137",
+  "title": "Title Absent",
+  "light": "--"
+ },
+ {
+  "year": 2017,
+  "desc": "Dodge Durango R/T AWD 4 Door Wagon 5.7 8cyl. Gasoline",
+  "run": "A-018",
+  "vin": "1C4SDJCT9HC799098",
+  "color": "WHITE",
+  "odo": "199,418",
+  "title": "Title Absent",
+  "light": "--"
+ },
+ {
+  "year": 2017,
+  "desc": "Dodge Grand Caravan SXT FWD 4 Door Van 3.6 6cyl. Gasoline",
+  "run": "C-071",
+  "vin": "2C4RDGCG3HR827523",
+  "color": "WHITE",
+  "odo": "126,487",
+  "title": "At Auction",
+  "light": "R"
+ },
+ {
+  "year": 2017,
+  "desc": "Fiat 500X LOUNGE FWD 4 Door Wagon 2.4 4cyl. Gasoline",
+  "run": "C-008",
+  "vin": "ZFBCFXCB4HP531144",
+  "color": "BLUE",
+  "odo": "62,170",
+  "title": "At Auction",
+  "light": "R"
+ },
+ {
+  "year": 2017,
+  "desc": "Ford Escape SE FWD 4 Door Wagon 1.5 4cyl. Gasoline",
+  "run": "C-034",
+  "vin": "1FMCU0GD5HUE11971",
+  "color": "BLACK",
+  "odo": "105,817",
+  "title": "Title Absent",
+  "light": "--"
+ },
+ {
+  "year": 2017,
+  "desc": "Ford Escape SE 4WD 4 Door Wagon 1.5 4cyl. Gasoline",
+  "run": "C-033",
+  "vin": "1FMCU9GD7HUA33057",
+  "color": "SILVER",
+  "odo": "143,048",
+  "title": "Title Absent",
+  "light": "--"
+ },
+ {
+  "year": 2017,
+  "desc": "Ford Escape SE 4WD 4 Door Wagon 1.5 4cyl. Gasoline",
+  "run": "A-023",
+  "vin": "1FMCU9GD6HUC44413",
+  "color": "RED",
+  "odo": "144,877",
+  "title": "Title Absent",
+  "light": "--"
+ },
+ {
+  "year": 2017,
+  "desc": "Ford Explorer POLICE INTE 4WD 4 Door Wagon 3.7 6cyl. Flex Fuel",
+  "run": "A-076",
+  "vin": "1FM5K8AR4HGA63483",
+  "color": "WHITE",
+  "odo": "98,743",
+  "title": "Title Absent",
+  "light": "--"
+ },
+ {
+  "year": 2017,
+  "desc": "GMC Sierra 1500 SLE 4WD 4 Door Pickup Truck 5.3 8cyl. Gasoline",
+  "run": "A-067",
+  "vin": "1GTV2MEC6HZ291914",
+  "color": "WHITE",
+  "odo": "196,785",
+  "title": "Title Absent",
+  "light": "--"
+ },
+ {
+  "year": 2017,
+  "desc": "GMC Terrain SLE1 AWD 4 Door Wagon 2.4 4cyl. Flex Fuel",
+  "run": "C-069",
+  "vin": "2GKFLSEK3H6211725",
+  "color": "BLACK",
+  "odo": "167,767",
+  "title": "At Auction",
+  "light": "R"
+ },
+ {
+  "year": 2017,
+  "desc": "Honda CR-V FWD 4 Door Wagon 1.5 4cyl. Gasoline",
+  "run": "A-032",
+  "vin": "7FARW1H5XHE010709",
+  "color": "GRAY",
+  "odo": "86,617",
+  "title": "At Auction",
+  "light": "R"
+ },
+ {
+  "year": 2017,
+  "desc": "Hyundai Santa Fe XL SE AWD 4 Door Wagon 3.3 6cyl. Gasoline",
+  "run": "B-085",
+  "vin": "KM8SMDHF2HU191711",
+  "color": "SILVER",
+  "odo": "147,573",
+  "title": "Title Absent",
+  "light": "--"
+ },
+ {
+  "year": 2017,
+  "desc": "Hyundai Santa Fe Sport AWD 4 Door Wagon 2.4 4cyl. Gasoline",
+  "run": "B-022",
+  "vin": "5NMZUDLB8HH034246",
+  "color": "GRAY",
+  "odo": "170,297",
+  "title": "At Auction",
+  "light": "R"
+ },
+ {
+  "year": 2017,
+  "desc": "Jeep All New Compass 4WD 4 Door Wagon 2.4 4cyl. Gasoline",
+  "run": "C-068",
+  "vin": "3C4NJDCB3HT666114",
+  "color": "GRAY",
+  "odo": "181,752",
+  "title": "At Auction",
+  "light": "R"
+ },
+ {
+  "year": 2017,
+  "desc": "Jeep Cherokee Limited 4WD 4 Door Wagon 3.2 6cyl. Gasoline",
+  "run": "A-077",
+  "vin": "1C4PJMDS0HW659543",
+  "color": "WHITE",
+  "odo": "181,981",
+  "title": "Title Absent",
+  "light": "--"
+ },
+ {
+  "year": 2017,
+  "desc": "Jeep Grand Cherokee 4WD 4 Door Wagon 3.6 6cyl. Gasoline",
+  "run": "A-012",
+  "vin": "1C4RJFBG4HC655211",
+  "color": "WHITE",
+  "odo": "152,921",
+  "title": "Title Absent",
+  "light": "--"
+ },
+ {
+  "year": 2017,
+  "desc": "Volkswagen Jetta 1.4T S FWD 4 Door Sedan 1.4 4cyl. Gasoline",
+  "run": "A-009",
+  "vin": "3VW2B7AJ8HM202139",
+  "color": "GRAY",
+  "odo": "160,965",
+  "title": "Title Absent",
+  "light": "--"
+ },
+ {
+  "year": 2016,
+  "desc": "BMW 5-Series 528I XDRIVE AWD 4 Door Sedan 2.0 4cyl. Gasoline",
+  "run": "A-014",
+  "vin": "WBA5A7C5XGG148514",
+  "color": "BLACK",
+  "odo": "162,076",
+  "title": "Title Absent",
+  "light": "--"
+ },
+ {
+  "year": 2016,
+  "desc": "Chevrolet Impala LS (1FL) FWD 4 Door Sedan 2.5 4cyl. Gasoline",
+  "run": "C-021",
+  "vin": "2G11X5SA2G9171733",
+  "color": "WHITE",
+  "odo": "163,012",
+  "title": "At Auction",
+  "light": "R"
+ },
+ {
+  "year": 2016,
+  "desc": "Chevrolet Traverse LS AWD 4 Door Wagon 3.6 6cyl. Gasoline",
+  "run": "A-056",
+  "vin": "1GNKVFKD8GJ319705",
+  "color": "BLUE",
+  "odo": "144,420",
+  "title": "At Auction",
+  "light": "R"
+ },
+ {
+  "year": 2016,
+  "desc": "Ford Edge SE AWD 4 Door Wagon 2.0 4cyl. Gasoline",
+  "run": "B-013",
+  "vin": "2FMPK4G95GBB43406",
+  "color": "BLACK",
+  "odo": "167,516",
+  "title": "Title Absent",
+  "light": "--"
+ },
+ {
+  "year": 2016,
+  "desc": "Ford Focus SE FWD 4 Door Hatch Back 2.0 4cyl. Gasoline",
+  "run": "A-044",
+  "vin": "1FADP3K22GL384214",
+  "color": null,
+  "odo": "143,148",
+  "title": "At Auction",
+  "light": "R"
+ },
+ {
+  "year": 2016,
+  "desc": "Honda CR-V AWD 4 Door Wagon 2.4 4cyl. Gasoline",
+  "run": "A-035",
+  "vin": "2HKRM4H44GH704127",
+  "color": "GRAY",
+  "odo": "127,131",
+  "title": "At Auction",
+  "light": "R"
+ },
+ {
+  "year": 2016,
+  "desc": "Hyundai Elantra FWD 4 Door Sedan 1.8 4cyl. Gasoline",
+  "run": "A-059",
+  "vin": "5NPDH4AE4GH654301",
+  "color": "SILVER",
+  "odo": "140,924",
+  "title": "Title Absent",
+  "light": "--"
+ },
+ {
+  "year": 2016,
+  "desc": "Kia Soul FWD 4 Door Wagon 1.6 4cyl. Gasoline",
+  "run": "B-026",
+  "vin": "KNDJN2A26G7385504",
+  "color": "WHITE",
+  "odo": "101,652",
+  "title": "Title Absent",
+  "light": "--"
+ },
+ {
+  "year": 2016,
+  "desc": "Lincoln MKZ AWD 4 Door Sedan 3.7 6cyl. Gasoline",
+  "run": "C-041",
+  "vin": "3LN6L2JK0GR611732",
+  "color": "BLACK",
+  "odo": "128,397",
+  "title": "Title Absent",
+  "light": "--"
+ },
+ {
+  "year": 2016,
+  "desc": "Mazda CX-9 4WD 4 Door Wagon 2.5 4cyl. Gasoline",
+  "run": "A-084",
+  "vin": "JM3TCBCY8G0118770",
+  "color": "GRAY",
+  "odo": "140,053",
+  "title": "Title Absent",
+  "light": "--"
+ },
+ {
+  "year": 2016,
+  "desc": "Subaru Impreza PREMIUM PLUS AWD 4 Door Sedan 2.0 4cyl. Gasoline",
+  "run": "A-040",
+  "vin": "JF1GJAF66GH009686",
+  "color": "SILVER",
+  "odo": "118,928",
+  "title": "Title Absent",
+  "light": "--"
+ },
+ {
+  "year": 2016,
+  "desc": "Subaru Legacy AWD 4 Door Sedan 2.5 4cyl. Gasoline",
+  "run": "C-064",
+  "vin": "4S3BNAN62G3034754",
+  "color": "RED",
+  "odo": "170,253",
+  "title": "Title Absent",
+  "light": "--"
+ },
+ {
+  "year": 2016,
+  "desc": "Volvo XC90 T6; 7-SEAT AWD 4 Door Wagon 2.0 4cyl. Gasoline",
+  "run": "C-072",
+  "vin": "YV4A22PK2G1038963",
+  "color": "BLACK",
+  "odo": "98,447",
+  "title": "At Auction",
+  "light": "R"
+ },
+ {
+  "year": 2015,
+  "desc": "BMW X1 XDrive28i AWD 4 Door Wagon 2.0 4cyl. Gasoline",
+  "run": "A-016",
+  "vin": "WBAVL1C56FVY40366",
+  "color": "BLACK",
+  "odo": "175,937",
+  "title": "Title Absent",
+  "light": "--"
+ },
+ {
+  "year": 2015,
+  "desc": "Chevrolet Cruze FWD 4 Door Sedan 1.8 4cyl. Gasoline",
+  "run": "C-052",
+  "vin": "1G1PA5SG7F7228864",
+  "color": "WHITE",
+  "odo": "162,294",
+  "title": "Title Absent",
+  "light": "--"
+ },
+ {
+  "year": 2015,
+  "desc": "Chevrolet Impala FWD 4 Door Sedan 2.5 4cyl. Gasoline",
+  "run": "B-089",
+  "vin": "2G11Z5SL9F9149853",
+  "color": "BLACK",
+  "odo": "122,754",
+  "title": "At Auction",
+  "light": "R"
+ },
+ {
+  "year": 2015,
+  "desc": "Chevrolet Silverado 1500 LT 4WD 4 Door Pickup Truck 5.3 8cyl. Gasoline",
+  "run": "B-006",
+  "vin": "1GCVKRECXFZ404595",
+  "color": "BLACK",
+  "odo": "163,797",
+  "title": "At Auction",
+  "light": "R"
+ },
+ {
+  "year": 2015,
+  "desc": "Chevrolet Trax LTZ FWD 4 Door Wagon 1.4 4cyl. Gasoline",
+  "run": "C-026",
+  "vin": "KL7CJNSB9FB063680",
+  "color": "BURGUNDY",
+  "odo": "94,926",
+  "title": "Title Absent",
+  "light": "--"
+ },
+ {
+  "year": 2015,
+  "desc": "Dodge Durango BOULEVARD (C AWD 4 Door Wagon 5.7 8cyl. Gasoline",
+  "run": "B-060",
+  "vin": "1C4SDJET3FC827021",
+  "color": "BLACK",
+  "odo": "182,715",
+  "title": "Title Absent",
+  "light": "--"
+ },
+ {
+  "year": 2015,
+  "desc": "Ford Escape Titanium 4WD 4 Door Wagon 2.0 4cyl. Gasoline",
+  "run": "C-038",
+  "vin": "1FMCU9J92FUA72365",
+  "color": "RED",
+  "odo": "40,175",
+  "title": "Title Absent",
+  "light": "--"
+ },
+ {
+  "year": 2015,
+  "desc": "Ford Explorer 4WD 4 Door Wagon 3.5 6cyl. Gasoline",
+  "run": "B-023",
+  "vin": "1FM5K8B84FGB70813",
+  "color": "RED",
+  "odo": "93,808",
+  "title": "At Auction",
+  "light": "R"
+ },
+ {
+  "year": 2015,
+  "desc": "Ford F150 XLT RWD 4 Door Pickup Truck 2.7 6cyl. Gasoline",
+  "run": "A-065",
+  "vin": "1FTEW1CP3FKF01805",
+  "color": "SILVER",
+  "odo": "192,737",
+  "title": "Title Absent",
+  "light": "--"
+ },
+ {
+  "year": 2015,
+  "desc": "Hyundai Sonata HYBRID LIMITE FWD 4 Door Sedan 2.4 4cyl. Gasoline",
+  "run": "A-075",
+  "vin": "KMHEC4A41FA130101",
+  "color": "SILVER",
+  "odo": "188,302",
+  "title": "At Auction",
+  "light": "R"
+ },
+ {
+  "year": 2015,
+  "desc": "INFINITI QX60 AWD 4 Door Wagon 3.5 6cyl. Gasoline",
+  "run": "C-050",
+  "vin": "5N1AL0MM0FC529993",
+  "color": "WHITE",
+  "odo": "187,571",
+  "title": "Title Absent",
+  "light": "--"
+ },
+ {
+  "year": 2015,
+  "desc": "Jeep Renegade Latitude 4WD 4 Door Wagon 2.4 4cyl. Gasoline",
+  "run": "C-037",
+  "vin": "ZACCJBBT0FPB55723",
+  "color": "SILVER",
+  "odo": "188,575",
+  "title": "Title Absent",
+  "light": "--"
+ },
+ {
+  "year": 2015,
+  "desc": "Kia Sorento SX AWD 4 Door Wagon 3.3 6cyl. Gasoline",
+  "run": "B-074",
+  "vin": "5XYKWDA72FG579361",
+  "color": "WHITE",
+  "odo": "147,194",
+  "title": "At Auction",
+  "light": "R"
+ },
+ {
+  "year": 2015,
+  "desc": "Nissan Altima 2.5 S FWD 4 Door Sedan 2.5 4cyl. Gasoline",
+  "run": "C-051",
+  "vin": "1N4AL3AP2FC472187",
+  "color": "BLACK",
+  "odo": "145,137",
+  "title": "Title Absent",
+  "light": "--"
+ },
+ {
+  "year": 2015,
+  "desc": "Nissan Murano FWD 4 Door Wagon 3.5 6cyl. Gasoline",
+  "run": "A-055",
+  "vin": "5N1AZ2MG3FN277536",
+  "color": "SILVER",
+  "odo": "166,539",
+  "title": "At Auction",
+  "light": "R"
+ },
+ {
+  "year": 2015,
+  "desc": "Nissan Sentra SV FWD 4 Door Sedan 1.8 4cyl. Gasoline",
+  "run": "A-006",
+  "vin": "3N1AB7AP5FL691673",
+  "color": "GRAY",
+  "odo": "127,539",
+  "title": "Title Absent",
+  "light": "--"
+ },
+ {
+  "year": 2015,
+  "desc": "Nissan Versa S FWD 4 Door Sedan 1.6 4cyl. Gasoline",
+  "run": "B-080",
+  "vin": "3N1CN7APXFL943255",
+  "color": "BLACK",
+  "odo": "198,876",
+  "title": "Title Absent",
+  "light": "--"
+ },
+ {
+  "year": 2015,
+  "desc": "Ram 1500 4WD 4 Door Pickup Truck 5.7 8cyl. Gasoline",
+  "run": "C-049",
+  "vin": "1C6RR7MTXFS618828",
+  "color": "WHITE",
+  "odo": "211,485",
+  "title": "Title Absent",
+  "light": "--"
+ },
+ {
+  "year": 2015,
+  "desc": "Subaru Outback AWD 4 Door Wagon 2.5 4cyl. Gasoline",
+  "run": "B-028",
+  "vin": "4S4BSADC2F3221888",
+  "color": "GREEN",
+  "odo": "144,197",
+  "title": "Title Absent",
+  "light": "--"
+ },
+ {
+  "year": 2015,
+  "desc": "Toyota Avalon XLE FWD 4 Door Sedan 3.5 6cyl. Gasoline",
+  "run": "A-068",
+  "vin": "4T1BK1EB2FU185619",
+  "color": "BLACK",
+  "odo": "194,157",
+  "title": "Title Absent",
+  "light": "--"
+ },
+ {
+  "year": 2015,
+  "desc": "Toyota Corolla LE FWD 4 Door Sedan 1.8 4cyl. Gasoline",
+  "run": "A-002",
+  "vin": "2T1BURHE9FC335998",
+  "color": "SILVER",
+  "odo": "135,850",
+  "title": "At Auction",
+  "light": "R"
+ }
+]

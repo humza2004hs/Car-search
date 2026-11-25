@@ -1,0 +1,1248 @@
+[
+ {
+  "run": "A-013",
+  "car": "2023 Ford Explorer XLT 4WD 4 Door Wagon 2.3 4cyl. Gasoline",
+  "miles": 162451,
+  "score": 4.300000000000001,
+  "cp": "Yes",
+  "risk": "High",
+  "body": "3-row SUV",
+  "bid": [
+   11000,
+   12500
+  ],
+  "title": "At Auction"
+ },
+ {
+  "run": "C-003",
+  "car": "2021 Ford Escape 4WD 4 Door Wagon 1.5 3cyl. Gasoline",
+  "miles": 113927,
+  "score": 3.2,
+  "cp": "Yes",
+  "risk": "High",
+  "body": "Compact SUV",
+  "bid": [
+   9000,
+   10300
+  ],
+  "title": "Title Absent"
+ },
+ {
+  "run": "A-007",
+  "car": "2021 INFINITI QX50 Luxe AWD 4 Door Wagon 2.0 4cyl. Gasoline",
+  "miles": 186112,
+  "score": 3.25,
+  "cp": "Yes",
+  "risk": "High",
+  "body": "Compact SUV",
+  "bid": [
+   7800,
+   9300
+  ],
+  "title": "At Auction"
+ },
+ {
+  "run": "B-005",
+  "car": "2020 Chevrolet Equinox LT (1LT) FWD 4 Door Wagon 1.5 4cyl. Gasoline",
+  "miles": 111552,
+  "score": 6.35,
+  "cp": "Yes",
+  "risk": "Medium",
+  "body": "Compact SUV",
+  "bid": [
+   7000,
+   8800
+  ],
+  "title": "At Auction"
+ },
+ {
+  "run": "A-010",
+  "car": "2020 Dodge Durango AWD 4 Door Wagon 3.6 6cyl. Gasoline",
+  "miles": 38857,
+  "score": 3.0,
+  "cp": "Yes",
+  "risk": "Low",
+  "body": "3-row SUV",
+  "bid": [
+   19000,
+   21000
+  ],
+  "title": "At Auction"
+ },
+ {
+  "run": "B-016",
+  "car": "2020 Dodge Durango GT AWD 4 Door Wagon 3.6 6cyl. Gasoline",
+  "miles": 237888,
+  "score": 5.199999999999999,
+  "cp": "Yes",
+  "risk": "Low",
+  "body": "3-row SUV",
+  "bid": [
+   5500,
+   7000
+  ],
+  "title": "At Auction"
+ },
+ {
+  "run": "B-024",
+  "car": "2020 Ford Edge SE FWD 4 Door Wagon 2.0 4cyl. Gasoline",
+  "miles": 103907,
+  "score": 4.300000000000001,
+  "cp": "Yes",
+  "risk": "High",
+  "body": "Midsize SUV",
+  "bid": [
+   10000,
+   11500
+  ],
+  "title": "At Auction"
+ },
+ {
+  "run": "B-046",
+  "car": "2020 Ford Escape 4WD 4 Door Wagon 1.5 3cyl. Gasoline",
+  "miles": 106347,
+  "score": 3.2,
+  "cp": "Verify",
+  "risk": "High",
+  "body": "Compact SUV",
+  "bid": [
+   7800,
+   9000
+  ],
+  "title": "Title Absent"
+ },
+ {
+  "run": "A-017",
+  "car": "2020 Ford Explorer XLT 4WD 4 Door Wagon 2.3 4cyl. Gasoline",
+  "miles": 184097,
+  "score": 3.7,
+  "cp": "Yes",
+  "risk": "High",
+  "body": "3-row SUV",
+  "bid": [
+   6500,
+   7800
+  ],
+  "title": "At Auction"
+ },
+ {
+  "run": "B-077",
+  "car": "2020 Hyundai Elantra FWD 4 Door Sedan 2.0 4cyl. Gasoline",
+  "miles": 176616,
+  "score": 4.475,
+  "cp": "Yes",
+  "risk": "High",
+  "body": "Sedan",
+  "bid": [
+   4800,
+   5800
+  ],
+  "title": "Title Absent"
+ },
+ {
+  "run": "B-007",
+  "car": "2020 Nissan Maxima SV FWD 4 Door Sedan 3.5 6cyl. Gasoline",
+  "miles": 185616,
+  "score": 4.25,
+  "cp": "Yes",
+  "risk": "High",
+  "body": "Sedan",
+  "bid": [
+   6000,
+   8000
+  ],
+  "title": "Title Absent"
+ },
+ {
+  "run": "A-003",
+  "car": "2020 Ram 1500 Big Horn 4WD 4 Door Pickup Truck 5.7 8cyl. Gasoline",
+  "miles": 191764,
+  "score": 4.050000000000001,
+  "cp": "Yes",
+  "risk": "High",
+  "body": "Pickup",
+  "bid": [
+   11000,
+   13000
+  ],
+  "title": "Title Absent"
+ },
+ {
+  "run": "A-083",
+  "car": "2019 Chevrolet Trax FWD 4 Door Wagon 1.4 4cyl. Gasoline",
+  "miles": 112979,
+  "score": 5.0,
+  "cp": "Yes",
+  "risk": "Medium",
+  "body": "Subcompact SUV",
+  "bid": [
+   5800,
+   6800
+  ],
+  "title": "At Auction"
+ },
+ {
+  "run": "C-018",
+  "car": "2019 Chevrolet Trax LS FWD 4 Door Wagon 1.4 4cyl. Gasoline",
+  "miles": 147677,
+  "score": 5.0,
+  "cp": "Yes",
+  "risk": "Medium",
+  "body": "Subcompact SUV",
+  "bid": [
+   4000,
+   5000
+  ],
+  "title": "At Auction"
+ },
+ {
+  "run": "A-005",
+  "car": "2019 Ford EcoSport S 4WD 4 Door Wagon 2.0 4cyl. Gasoline",
+  "miles": 61466,
+  "score": 3.9000000000000004,
+  "cp": "Verify",
+  "risk": "Medium",
+  "body": "Subcompact SUV",
+  "bid": [
+   9000,
+   10500
+  ],
+  "title": "Title Absent"
+ },
+ {
+  "run": "C-024",
+  "car": "2019 Ford Escape FWD 4 Door Wagon 1.5 4cyl. Gasoline",
+  "miles": 107622,
+  "score": 3.2,
+  "cp": "Yes",
+  "risk": "High",
+  "body": "Compact SUV",
+  "bid": [
+   5800,
+   7000
+  ],
+  "title": "At Auction"
+ },
+ {
+  "run": "B-009",
+  "car": "2019 Ford Explorer Limited FWD 4 Door Wagon 3.5 6cyl. Gasoline",
+  "miles": 132696,
+  "score": 5.549999999999999,
+  "cp": "Yes",
+  "risk": "Medium",
+  "body": "3-row SUV",
+  "bid": [
+   8000,
+   9500
+  ],
+  "title": "Title Absent"
+ },
+ {
+  "run": "C-001",
+  "car": "2019 Ford Fusion SE AWD 4 Door Sedan 2.0 4cyl. Gasoline",
+  "miles": 118449,
+  "score": 5.299999999999999,
+  "cp": "Yes",
+  "risk": "Medium",
+  "body": "Sedan",
+  "bid": [
+   6000,
+   7200
+  ],
+  "title": "Title Absent"
+ },
+ {
+  "run": "B-002",
+  "car": "2019 GMC Acadia SLE1 AWD 4 Door Wagon 2.5 4cyl. Gasoline",
+  "miles": 100606,
+  "score": 7.0,
+  "cp": "Yes",
+  "risk": "Low",
+  "body": "Midsize SUV",
+  "bid": [
+   8500,
+   10500
+  ],
+  "title": "At Auction"
+ },
+ {
+  "run": "A-058",
+  "car": "2019 Nissan Rogue AWD 4 Door Wagon 2.5 4cyl. Gasoline",
+  "miles": 126138,
+  "score": 5.249999999999999,
+  "cp": "Verify",
+  "risk": "Medium",
+  "body": "Compact SUV",
+  "bid": [
+   7000,
+   8800
+  ],
+  "title": "At Auction"
+ },
+ {
+  "run": "C-027",
+  "car": "2019 Nissan Sentra FWD 4 Door Sedan 1.8 4cyl. Gasoline",
+  "miles": 136875,
+  "score": 3.45,
+  "cp": "Verify",
+  "risk": "High",
+  "body": "Sedan",
+  "bid": [
+   3800,
+   4800
+  ],
+  "title": "At Auction"
+ },
+ {
+  "run": "B-012",
+  "car": "2018 Chevrolet Silverado 1500 LT 4WD 4 Door Pickup Truck 5.3 8cyl. Gasoline",
+  "miles": 153973,
+  "score": 5.549999999999999,
+  "cp": "Yes",
+  "risk": "Medium",
+  "body": "Pickup",
+  "bid": [
+   10500,
+   12500
+  ],
+  "title": "At Auction"
+ },
+ {
+  "run": "C-002",
+  "car": "2018 Ford EcoSport 4WD 4 Door Wagon 2.0 4cyl. Gasoline",
+  "miles": 105701,
+  "score": 3.9000000000000004,
+  "cp": "Verify",
+  "risk": "Medium",
+  "body": "Subcompact SUV",
+  "bid": [
+   5000,
+   6500
+  ],
+  "title": "Title Absent"
+ },
+ {
+  "run": "A-021",
+  "car": "2018 Ford Edge Titanium AWD 4 Door Wagon 2.0 4cyl. Gasoline",
+  "miles": 167647,
+  "score": 4.300000000000001,
+  "cp": "Yes",
+  "risk": "High",
+  "body": "Midsize SUV",
+  "bid": [
+   5000,
+   6300
+  ],
+  "title": "At Auction"
+ },
+ {
+  "run": "C-025",
+  "car": "2018 Ford Escape SE 4WD 4 Door Wagon 1.5 4cyl. Gasoline",
+  "miles": 105120,
+  "score": 3.2,
+  "cp": "Yes",
+  "risk": "High",
+  "body": "Compact SUV",
+  "bid": [
+   5500,
+   6500
+  ],
+  "title": "Title Absent"
+ },
+ {
+  "run": "B-018",
+  "car": "2018 Ford Expedition Max LIMIT 4WD 4 Door Wagon 3.5 6cyl. Gasoline",
+  "miles": 114272,
+  "score": 5.85,
+  "cp": "Yes",
+  "risk": "Medium",
+  "body": "3-row SUV",
+  "bid": [
+   15500,
+   17800
+  ],
+  "title": "At Auction"
+ },
+ {
+  "run": "A-025",
+  "car": "2018 Ford Fiesta SE FWD 4 Door Sedan 1.6 4cyl. Gasoline",
+  "miles": 97007,
+  "score": 3.45,
+  "cp": "Verify",
+  "risk": "Medium",
+  "body": "Sedan",
+  "bid": [
+   3200,
+   4300
+  ],
+  "title": "Title Absent"
+ },
+ {
+  "run": "C-005",
+  "car": "2018 Hyundai Kona SE FWD 4 Door Wagon 2.0 4cyl. Gasoline",
+  "miles": 159023,
+  "score": 5.0,
+  "cp": "Yes",
+  "risk": "Medium",
+  "body": "Subcompact SUV",
+  "bid": [
+   3800,
+   4800
+  ],
+  "title": "At Auction"
+ },
+ {
+  "run": "B-019",
+  "car": "2018 Nissan Pathfinder SV 4WD 4 Door Wagon 3.5 6cyl. Gasoline",
+  "miles": 143090,
+  "score": 5.499999999999999,
+  "cp": "No",
+  "risk": "Medium",
+  "body": "3-row SUV",
+  "bid": [
+   7500,
+   9300
+  ],
+  "title": "At Auction"
+ },
+ {
+  "run": "A-033",
+  "car": "2018 Nissan Rogue SV AWD 4 Door Wagon 2.5 4cyl. Gasoline",
+  "miles": 120799,
+  "score": 5.499999999999999,
+  "cp": "Yes",
+  "risk": "Medium",
+  "body": "Compact SUV",
+  "bid": [
+   6000,
+   7800
+  ],
+  "title": "At Auction"
+ },
+ {
+  "run": "A-024",
+  "car": "2018 Nissan Sentra FWD 4 Door Sedan 1.8 4cyl. Gasoline",
+  "miles": 153994,
+  "score": 3.45,
+  "cp": "Verify",
+  "risk": "High",
+  "body": "Sedan",
+  "bid": [
+   2800,
+   3600
+  ],
+  "title": "Title Absent"
+ },
+ {
+  "run": "C-031",
+  "car": "2017 Chevrolet Equinox LS AWD 4 Door Wagon 2.4 4cyl. Flex Fuel",
+  "miles": 27833,
+  "score": 5.249999999999999,
+  "cp": "No",
+  "risk": "Medium",
+  "body": "Compact SUV",
+  "bid": [
+   9500,
+   11500
+  ],
+  "title": "Title Absent"
+ },
+ {
+  "run": "A-078",
+  "car": "2017 Chevrolet Equinox LS FWD 4 Door Wagon 2.4 4cyl. Flex Fuel",
+  "miles": 132985,
+  "score": 5.249999999999999,
+  "cp": "No",
+  "risk": "Medium",
+  "body": "Compact SUV",
+  "bid": [
+   3500,
+   5000
+  ],
+  "title": "At Auction"
+ },
+ {
+  "run": "B-072",
+  "car": "2017 Chevrolet Malibu FWD 4 Door Sedan 1.5 4cyl. Gasoline",
+  "miles": 159484,
+  "score": 5.749999999999999,
+  "cp": "Yes",
+  "risk": "Medium",
+  "body": "Sedan",
+  "bid": [
+   1500,
+   2600
+  ],
+  "title": "At Auction"
+ },
+ {
+  "run": "B-008",
+  "car": "2017 Chevrolet Silverado 1500 LTZ 4WD 4 Door Pickup Truck 6.2 8cyl. Gasoline",
+  "miles": 191537,
+  "score": 3.85,
+  "cp": "Yes",
+  "risk": "High",
+  "body": "Pickup",
+  "bid": [
+   11000,
+   13500
+  ],
+  "title": "At Auction"
+ },
+ {
+  "run": "C-046",
+  "car": "2017 Chevrolet Sonic FWD 4 Door Hatch Back 1.8 4cyl. Flex Fuel",
+  "miles": 178068,
+  "score": 5.1,
+  "cp": "Verify",
+  "risk": "Medium",
+  "body": "Hatchback",
+  "bid": [
+   300,
+   900
+  ],
+  "title": "Title Absent"
+ },
+ {
+  "run": "C-074",
+  "car": "2017 Chevrolet Sonic Premier FWD 4 Door Sedan 1.4 4cyl. Gasoline",
+  "miles": 142074,
+  "score": 4.75,
+  "cp": "Yes",
+  "risk": "Medium",
+  "body": "Sedan",
+  "bid": [
+   800,
+   1500
+  ],
+  "title": "At Auction"
+ },
+ {
+  "run": "C-073",
+  "car": "2017 Chevrolet Sonic RS FWD 4 Door Hatch Back 1.8 4cyl. Gasoline",
+  "miles": 183811,
+  "score": 4.75,
+  "cp": "Verify",
+  "risk": "Medium",
+  "body": "Hatchback",
+  "bid": [
+   400,
+   1000
+  ],
+  "title": "At Auction"
+ },
+ {
+  "run": "B-025",
+  "car": "2017 Chevrolet Traverse 1LT AWD 4 Door Wagon 3.6 6cyl. Gasoline",
+  "miles": 144137,
+  "score": 4.050000000000001,
+  "cp": "Verify",
+  "risk": "High",
+  "body": "3-row SUV",
+  "bid": [
+   3800,
+   4800
+  ],
+  "title": "Title Absent"
+ },
+ {
+  "run": "A-018",
+  "car": "2017 Dodge Durango R/T AWD 4 Door Wagon 5.7 8cyl. Gasoline",
+  "miles": 199418,
+  "score": 3.25,
+  "cp": "Verify",
+  "risk": "High",
+  "body": "3-row SUV",
+  "bid": [
+   5500,
+   7000
+  ],
+  "title": "Title Absent"
+ },
+ {
+  "run": "C-071",
+  "car": "2017 Dodge Grand Caravan SXT FWD 4 Door Van 3.6 6cyl. Gasoline",
+  "miles": 126487,
+  "score": 5.749999999999999,
+  "cp": "No",
+  "risk": "Medium",
+  "body": "Minivan",
+  "bid": [
+   3500,
+   4500
+  ],
+  "title": "At Auction"
+ },
+ {
+  "run": "C-008",
+  "car": "2017 Fiat 500X LOUNGE FWD 4 Door Wagon 2.4 4cyl. Gasoline",
+  "miles": 62170,
+  "score": 3.1,
+  "cp": "Verify",
+  "risk": "Medium",
+  "body": "Subcompact SUV",
+  "bid": [
+   6000,
+   7500
+  ],
+  "title": "At Auction"
+ },
+ {
+  "run": "C-034",
+  "car": "2017 Ford Escape SE FWD 4 Door Wagon 1.5 4cyl. Gasoline",
+  "miles": 105817,
+  "score": 2.95,
+  "cp": "Verify",
+  "risk": "High",
+  "body": "Compact SUV",
+  "bid": [
+   4500,
+   5500
+  ],
+  "title": "Title Absent"
+ },
+ {
+  "run": "C-033",
+  "car": "2017 Ford Escape SE 4WD 4 Door Wagon 1.5 4cyl. Gasoline",
+  "miles": 143048,
+  "score": 2.95,
+  "cp": "Verify",
+  "risk": "High",
+  "body": "Compact SUV",
+  "bid": [
+   3500,
+   4300
+  ],
+  "title": "Title Absent"
+ },
+ {
+  "run": "A-023",
+  "car": "2017 Ford Escape SE 4WD 4 Door Wagon 1.5 4cyl. Gasoline",
+  "miles": 144877,
+  "score": 2.95,
+  "cp": "Verify",
+  "risk": "High",
+  "body": "Compact SUV",
+  "bid": [
+   3400,
+   4200
+  ],
+  "title": "Title Absent"
+ },
+ {
+  "run": "A-076",
+  "car": "2017 Ford Explorer POLICE INTE 4WD 4 Door Wagon 3.7 6cyl. Flex Fuel",
+  "miles": 98743,
+  "score": 2.9,
+  "cp": "No",
+  "risk": "High",
+  "body": "3-row SUV",
+  "bid": [
+   3000,
+   4500
+  ],
+  "title": "Title Absent"
+ },
+ {
+  "run": "A-067",
+  "car": "2017 GMC Sierra 1500 SLE 4WD 4 Door Pickup Truck 5.3 8cyl. Gasoline",
+  "miles": 196785,
+  "score": 4.4,
+  "cp": "Yes",
+  "risk": "High",
+  "body": "Pickup",
+  "bid": [
+   8000,
+   10000
+  ],
+  "title": "Title Absent"
+ },
+ {
+  "run": "C-069",
+  "car": "2017 GMC Terrain SLE1 AWD 4 Door Wagon 2.4 4cyl. Flex Fuel",
+  "miles": 167767,
+  "score": 3.2,
+  "cp": "Yes",
+  "risk": "High",
+  "body": "Compact SUV",
+  "bid": [
+   2500,
+   3500
+  ],
+  "title": "At Auction"
+ },
+ {
+  "run": "A-032",
+  "car": "2017 Honda CR-V FWD 4 Door Wagon 1.5 4cyl. Gasoline",
+  "miles": 86617,
+  "score": 7.8,
+  "cp": "Yes",
+  "risk": "Low",
+  "body": "Compact SUV",
+  "bid": [
+   10000,
+   11500
+  ],
+  "title": "At Auction"
+ },
+ {
+  "run": "B-085",
+  "car": "2017 Hyundai Santa Fe XL SE AWD 4 Door Wagon 3.3 6cyl. Gasoline",
+  "miles": 147573,
+  "score": 6.15,
+  "cp": "Verify",
+  "risk": "Medium",
+  "body": "3-row SUV",
+  "bid": [
+   5800,
+   6800
+  ],
+  "title": "Title Absent"
+ },
+ {
+  "run": "B-022",
+  "car": "2017 Hyundai Santa Fe Sport AWD 4 Door Wagon 2.4 4cyl. Gasoline",
+  "miles": 170297,
+  "score": 3.9250000000000003,
+  "cp": "Verify",
+  "risk": "High",
+  "body": "Compact SUV",
+  "bid": [
+   4000,
+   5000
+  ],
+  "title": "At Auction"
+ },
+ {
+  "run": "C-068",
+  "car": "2017 Jeep All New Compass 4WD 4 Door Wagon 2.4 4cyl. Gasoline",
+  "miles": 181752,
+  "score": 2.35,
+  "cp": "Verify",
+  "risk": "High",
+  "body": "Compact SUV",
+  "bid": [
+   2000,
+   3000
+  ],
+  "title": "At Auction"
+ },
+ {
+  "run": "A-077",
+  "car": "2017 Jeep Cherokee Limited 4WD 4 Door Wagon 3.2 6cyl. Gasoline",
+  "miles": 181981,
+  "score": 2.6,
+  "cp": "Verify",
+  "risk": "High",
+  "body": "Compact SUV",
+  "bid": [
+   3300,
+   4300
+  ],
+  "title": "Title Absent"
+ },
+ {
+  "run": "A-012",
+  "car": "2017 Jeep Grand Cherokee 4WD 4 Door Wagon 3.6 6cyl. Gasoline",
+  "miles": 152921,
+  "score": 5.549999999999999,
+  "cp": "Verify",
+  "risk": "Medium",
+  "body": "Midsize SUV",
+  "bid": [
+   5500,
+   6500
+  ],
+  "title": "Title Absent"
+ },
+ {
+  "run": "A-009",
+  "car": "2017 Volkswagen Jetta 1.4T S FWD 4 Door Sedan 1.4 4cyl. Gasoline",
+  "miles": 160965,
+  "score": 3.0500000000000003,
+  "cp": "No",
+  "risk": "High",
+  "body": "Sedan",
+  "bid": [
+   2800,
+   3800
+  ],
+  "title": "Title Absent"
+ },
+ {
+  "run": "A-014",
+  "car": "2016 BMW 5-Series 528I XDRIVE AWD 4 Door Sedan 2.0 4cyl. Gasoline",
+  "miles": 162076,
+  "score": 2.9000000000000004,
+  "cp": "No",
+  "risk": "High",
+  "body": "Sedan",
+  "bid": [
+   2500,
+   3800
+  ],
+  "title": "Title Absent"
+ },
+ {
+  "run": "C-021",
+  "car": "2016 Chevrolet Impala LS (1FL) FWD 4 Door Sedan 2.5 4cyl. Gasoline",
+  "miles": 163012,
+  "score": 6.1,
+  "cp": "No",
+  "risk": "Medium",
+  "body": "Sedan",
+  "bid": [
+   2000,
+   3200
+  ],
+  "title": "At Auction"
+ },
+ {
+  "run": "A-056",
+  "car": "2016 Chevrolet Traverse LS AWD 4 Door Wagon 3.6 6cyl. Gasoline",
+  "miles": 144420,
+  "score": 3.8000000000000003,
+  "cp": "No",
+  "risk": "High",
+  "body": "3-row SUV",
+  "bid": [
+   3000,
+   4000
+  ],
+  "title": "At Auction"
+ },
+ {
+  "run": "B-013",
+  "car": "2016 Ford Edge SE AWD 4 Door Wagon 2.0 4cyl. Gasoline",
+  "miles": 167516,
+  "score": 3.8000000000000003,
+  "cp": "No",
+  "risk": "High",
+  "body": "Midsize SUV",
+  "bid": [
+   3500,
+   4500
+  ],
+  "title": "Title Absent"
+ },
+ {
+  "run": "A-044",
+  "car": "2016 Ford Focus SE FWD 4 Door Hatch Back 2.0 4cyl. Gasoline",
+  "miles": 143148,
+  "score": 1.9500000000000002,
+  "cp": "No",
+  "risk": "High",
+  "body": "Hatchback",
+  "bid": [
+   2300,
+   3300
+  ],
+  "title": "At Auction"
+ },
+ {
+  "run": "A-035",
+  "car": "2016 Honda CR-V AWD 4 Door Wagon 2.4 4cyl. Gasoline",
+  "miles": 127131,
+  "score": 7.6499999999999995,
+  "cp": "No",
+  "risk": "Low",
+  "body": "Compact SUV",
+  "bid": [
+   7500,
+   8800
+  ],
+  "title": "At Auction"
+ },
+ {
+  "run": "A-059",
+  "car": "2016 Hyundai Elantra FWD 4 Door Sedan 1.8 4cyl. Gasoline",
+  "miles": 140924,
+  "score": 5.95,
+  "cp": "No",
+  "risk": "Medium",
+  "body": "Sedan",
+  "bid": [
+   3200,
+   4200
+  ],
+  "title": "Title Absent"
+ },
+ {
+  "run": "B-026",
+  "car": "2016 Kia Soul FWD 4 Door Wagon 1.6 4cyl. Gasoline",
+  "miles": 101652,
+  "score": 6.325,
+  "cp": "No",
+  "risk": "Low",
+  "body": "Hatchback",
+  "bid": [
+   4000,
+   5500
+  ],
+  "title": "Title Absent"
+ },
+ {
+  "run": "C-041",
+  "car": "2016 Lincoln MKZ AWD 4 Door Sedan 3.7 6cyl. Gasoline",
+  "miles": 128397,
+  "score": 4.799999999999999,
+  "cp": "No",
+  "risk": "Medium",
+  "body": "Sedan",
+  "bid": [
+   3800,
+   5000
+  ],
+  "title": "Title Absent"
+ },
+ {
+  "run": "A-084",
+  "car": "2016 Mazda CX-9 4WD 4 Door Wagon 2.5 4cyl. Gasoline",
+  "miles": 140053,
+  "score": 6.225,
+  "cp": "No",
+  "risk": "Medium",
+  "body": "3-row SUV",
+  "bid": [
+   5500,
+   7000
+  ],
+  "title": "Title Absent"
+ },
+ {
+  "run": "A-040",
+  "car": "2016 Subaru Impreza PREMIUM PLUS AWD 4 Door Sedan 2.0 4cyl. Gasoline",
+  "miles": 118928,
+  "score": 6.55,
+  "cp": "No",
+  "risk": "Low",
+  "body": "Sedan",
+  "bid": [
+   4800,
+   6000
+  ],
+  "title": "Title Absent"
+ },
+ {
+  "run": "C-064",
+  "car": "2016 Subaru Legacy AWD 4 Door Sedan 2.5 4cyl. Gasoline",
+  "miles": 170253,
+  "score": 5.85,
+  "cp": "No",
+  "risk": "Medium",
+  "body": "Sedan",
+  "bid": [
+   3300,
+   4500
+  ],
+  "title": "Title Absent"
+ },
+ {
+  "run": "C-072",
+  "car": "2016 Volvo XC90 T6; 7-SEAT AWD 4 Door Wagon 2.0 4cyl. Gasoline",
+  "miles": 98447,
+  "score": 5.85,
+  "cp": "Yes*",
+  "risk": "Medium",
+  "body": "3-row SUV",
+  "bid": [
+   7500,
+   9500
+  ],
+  "title": "At Auction"
+ },
+ {
+  "run": "A-016",
+  "car": "2015 BMW X1 XDrive28i AWD 4 Door Wagon 2.0 4cyl. Gasoline",
+  "miles": 175937,
+  "score": 2.6500000000000004,
+  "cp": "No",
+  "risk": "High",
+  "body": "Subcompact SUV",
+  "bid": [
+   1500,
+   2500
+  ],
+  "title": "Title Absent"
+ },
+ {
+  "run": "C-052",
+  "car": "2015 Chevrolet Cruze FWD 4 Door Sedan 1.8 4cyl. Gasoline",
+  "miles": 162294,
+  "score": 5.1,
+  "cp": "No",
+  "risk": "Medium",
+  "body": "Sedan",
+  "bid": [
+   800,
+   1500
+  ],
+  "title": "Title Absent"
+ },
+ {
+  "run": "B-089",
+  "car": "2015 Chevrolet Impala FWD 4 Door Sedan 2.5 4cyl. Gasoline",
+  "miles": 122754,
+  "score": 6.1,
+  "cp": "No",
+  "risk": "Medium",
+  "body": "Sedan",
+  "bid": [
+   2500,
+   3800
+  ],
+  "title": "At Auction"
+ },
+ {
+  "run": "B-006",
+  "car": "2015 Chevrolet Silverado 1500 LT 4WD 4 Door Pickup Truck 5.3 8cyl. Gasoline",
+  "miles": 163797,
+  "score": 5.049999999999999,
+  "cp": "No",
+  "risk": "Medium",
+  "body": "Pickup",
+  "bid": [
+   7000,
+   9000
+  ],
+  "title": "At Auction"
+ },
+ {
+  "run": "C-026",
+  "car": "2015 Chevrolet Trax LTZ FWD 4 Door Wagon 1.4 4cyl. Gasoline",
+  "miles": 94926,
+  "score": 4.5,
+  "cp": "No",
+  "risk": "Medium",
+  "body": "Subcompact SUV",
+  "bid": [
+   3300,
+   4300
+  ],
+  "title": "Title Absent"
+ },
+ {
+  "run": "B-060",
+  "car": "2015 Dodge Durango BOULEVARD (C AWD 4 Door Wagon 5.7 8cyl. Gasoline",
+  "miles": 182715,
+  "score": 3.0,
+  "cp": "No",
+  "risk": "High",
+  "body": "3-row SUV",
+  "bid": [
+   3800,
+   5000
+  ],
+  "title": "Title Absent"
+ },
+ {
+  "run": "C-038",
+  "car": "2015 Ford Escape Titanium 4WD 4 Door Wagon 2.0 4cyl. Gasoline",
+  "miles": 40175,
+  "score": 4.3,
+  "cp": "No",
+  "risk": "Low",
+  "body": "Compact SUV",
+  "bid": [
+   7500,
+   9000
+  ],
+  "title": "Title Absent"
+ },
+ {
+  "run": "B-023",
+  "car": "2015 Ford Explorer 4WD 4 Door Wagon 3.5 6cyl. Gasoline",
+  "miles": 93808,
+  "score": 5.049999999999999,
+  "cp": "No",
+  "risk": "Medium",
+  "body": "3-row SUV",
+  "bid": [
+   5500,
+   6800
+  ],
+  "title": "At Auction"
+ },
+ {
+  "run": "A-065",
+  "car": "2015 Ford F150 XLT RWD 4 Door Pickup Truck 2.7 6cyl. Gasoline",
+  "miles": 192737,
+  "score": 3.3000000000000003,
+  "cp": "No",
+  "risk": "High",
+  "body": "Pickup",
+  "bid": [
+   6000,
+   7500
+  ],
+  "title": "Title Absent"
+ },
+ {
+  "run": "A-075",
+  "car": "2015 Hyundai Sonata HYBRID LIMITE FWD 4 Door Sedan 2.4 4cyl. Gasoline",
+  "miles": 188302,
+  "score": 1.65,
+  "cp": "No",
+  "risk": "High",
+  "body": "Sedan",
+  "bid": [
+   1800,
+   2500
+  ],
+  "title": "At Auction"
+ },
+ {
+  "run": "C-050",
+  "car": "2015 INFINITI QX60 AWD 4 Door Wagon 3.5 6cyl. Gasoline",
+  "miles": 187571,
+  "score": 3.325,
+  "cp": "No",
+  "risk": "High",
+  "body": "3-row SUV",
+  "bid": [
+   2200,
+   3000
+  ],
+  "title": "Title Absent"
+ },
+ {
+  "run": "C-037",
+  "car": "2015 Jeep Renegade Latitude 4WD 4 Door Wagon 2.4 4cyl. Gasoline",
+  "miles": 188575,
+  "score": 1.6,
+  "cp": "No",
+  "risk": "High",
+  "body": "Subcompact SUV",
+  "bid": [
+   2000,
+   3000
+  ],
+  "title": "Title Absent"
+ },
+ {
+  "run": "B-074",
+  "car": "2015 Kia Sorento SX AWD 4 Door Wagon 3.3 6cyl. Gasoline",
+  "miles": 147194,
+  "score": 6.1,
+  "cp": "No",
+  "risk": "Medium",
+  "body": "Midsize SUV",
+  "bid": [
+   3500,
+   4800
+  ],
+  "title": "At Auction"
+ },
+ {
+  "run": "C-051",
+  "car": "2015 Nissan Altima 2.5 S FWD 4 Door Sedan 2.5 4cyl. Gasoline",
+  "miles": 145137,
+  "score": 3.7,
+  "cp": "No",
+  "risk": "High",
+  "body": "Sedan",
+  "bid": [
+   2200,
+   3200
+  ],
+  "title": "Title Absent"
+ },
+ {
+  "run": "A-055",
+  "car": "2015 Nissan Murano FWD 4 Door Wagon 3.5 6cyl. Gasoline",
+  "miles": 166539,
+  "score": 3.75,
+  "cp": "No",
+  "risk": "High",
+  "body": "Midsize SUV",
+  "bid": [
+   2300,
+   3500
+  ],
+  "title": "At Auction"
+ },
+ {
+  "run": "A-006",
+  "car": "2015 Nissan Sentra SV FWD 4 Door Sedan 1.8 4cyl. Gasoline",
+  "miles": 127539,
+  "score": 3.2,
+  "cp": "No",
+  "risk": "High",
+  "body": "Sedan",
+  "bid": [
+   2300,
+   3000
+  ],
+  "title": "Title Absent"
+ },
+ {
+  "run": "B-080",
+  "car": "2015 Nissan Versa S FWD 4 Door Sedan 1.6 4cyl. Gasoline",
+  "miles": 198876,
+  "score": 2.35,
+  "cp": "No",
+  "risk": "High",
+  "body": "Sedan",
+  "bid": [
+   300,
+   800
+  ],
+  "title": "Title Absent"
+ },
+ {
+  "run": "C-049",
+  "car": "2015 Ram 1500 4WD 4 Door Pickup Truck 5.7 8cyl. Gasoline",
+  "miles": 211485,
+  "score": 3.5500000000000003,
+  "cp": "No",
+  "risk": "High",
+  "body": "Pickup",
+  "bid": [
+   4800,
+   6300
+  ],
+  "title": "Title Absent"
+ },
+ {
+  "run": "B-028",
+  "car": "2015 Subaru Outback AWD 4 Door Wagon 2.5 4cyl. Gasoline",
+  "miles": 144197,
+  "score": 6.1,
+  "cp": "No",
+  "risk": "Medium",
+  "body": "Midsize SUV",
+  "bid": [
+   4500,
+   5800
+  ],
+  "title": "Title Absent"
+ },
+ {
+  "run": "A-068",
+  "car": "2015 Toyota Avalon XLE FWD 4 Door Sedan 3.5 6cyl. Gasoline",
+  "miles": 194157,
+  "score": 7.5,
+  "cp": "No",
+  "risk": "Medium",
+  "body": "Sedan",
+  "bid": [
+   4200,
+   5400
+  ],
+  "title": "Title Absent"
+ },
+ {
+  "run": "A-002",
+  "car": "2015 Toyota Corolla LE FWD 4 Door Sedan 1.8 4cyl. Gasoline",
+  "miles": 135850,
+  "score": 7.95,
+  "cp": "No",
+  "risk": "Low",
+  "body": "Sedan",
+  "bid": [
+   4800,
+   6000
+  ],
+  "title": "At Auction"
+ }
+]

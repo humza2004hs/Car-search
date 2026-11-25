@@ -1,0 +1,223 @@
+[
+ {
+  "group": "Hyundai Elantra 1.8L",
+  "body_type": "Sedan",
+  "rear_legroom_in": 38.0,
+  "cargo_cuft": 14.4,
+  "carseat_fit_notes": "Two seats fit across; rear-facing infant seats workable but front seats pushed forward. 2 full LATCH sets + center tether.",
+  "latch_rating": "Not rated / ~Acceptable (est.)",
+  "carplay_by_car": {
+   "A-059": "No"
+  },
+  "safety_notes": "2016: backup camera on upper trims only; no AEB standard. IIHS Good in most tests, NHTSA 5-star overall. Rear vents absent.",
+  "family_fit_score_1to10": 5
+ },
+ {
+  "group": "Hyundai Elantra 2.0L",
+  "body_type": "Sedan",
+  "rear_legroom_in": 38.0,
+  "cargo_cuft": 14.4,
+  "carseat_fit_notes": "Same as 2016-2020 AD platform: fits 2 seats, tight for rear-facing behind tall driver.",
+  "latch_rating": "Not rated / ~Acceptable (est.)",
+  "carplay_by_car": {
+   "B-077": "Yes"
+  },
+  "safety_notes": "2020: backup camera std, AEB/lane keep std on SEL+ (FCA std on most); blind spot on SEL+. IIHS Top Safety Pick-level crash scores; NHTSA 5-star.",
+  "family_fit_score_1to10": 5.5
+ },
+ {
+  "group": "Hyundai Kona 2.0L",
+  "body_type": "Subcompact SUV",
+  "rear_legroom_in": 34.6,
+  "cargo_cuft": 19.2,
+  "carseat_fit_notes": "Tight rear; two convertible seats fit but rear-facing forces front seats forward. Lower roominess is the weak point.",
+  "latch_rating": "Not rated (est. Acceptable)",
+  "carplay_by_car": {
+   "C-005": "Yes"
+  },
+  "safety_notes": "2018 SE: backup camera std; AEB/blind spot only on upper trims/packages. IIHS Good crash tests; NHTSA 5-star overall.",
+  "family_fit_score_1to10": 4
+ },
+ {
+  "group": "Hyundai Santa Fe Sport 2.4L",
+  "body_type": "Compact SUV",
+  "rear_legroom_in": 38.7,
+  "cargo_cuft": 35.4,
+  "carseat_fit_notes": "Roomy for class; two seats incl. rear-facing fit easily, good door openings, 2 LATCH sets + center tether.",
+  "latch_rating": "IIHS LATCH Good+/Acceptable (est.)",
+  "carplay_by_car": {
+   "B-022": "Optional"
+  },
+  "safety_notes": "2017: backup camera std; blind spot/AEB on packages/Limited. IIHS Good (small overlap Acceptable/Good), TSP+ 2017 w/ crash prevention; NHTSA 5-star. Rear vents yes.",
+  "family_fit_score_1to10": 7.5
+ },
+ {
+  "group": "Hyundai Santa Fe XL 3.3L",
+  "body_type": "3-row SUV",
+  "rear_legroom_in": 38.0,
+  "cargo_cuft": 40.9,
+  "carseat_fit_notes": "Very roomy 2nd row (3rd folds flat; cargo 40.9 cu ft behind 2nd row, 13.5 behind 3rd). 2 seats easy; 3rd row is a bonus.",
+  "latch_rating": "IIHS LATCH ~Acceptable (est.)",
+  "carplay_by_car": {
+   "B-085": "No"
+  },
+  "safety_notes": "2017 SE: backup camera std; blind spot via package. NHTSA 5-star overall; IIHS Good frontal, small overlap Acceptable. Rear vents yes.",
+  "family_fit_score_1to10": 8
+ },
+ {
+  "group": "Hyundai Sonata 2.4L",
+  "body_type": "Sedan",
+  "rear_legroom_in": 34.6,
+  "cargo_cuft": 12.1,
+  "carseat_fit_notes": "Hybrid battery cuts trunk to 12.1 cu ft; rear legroom ok. Two seats fit, rear-facing is snug.",
+  "latch_rating": "Not rated",
+  "carplay_by_car": {
+   "A-075": "No"
+  },
+  "safety_notes": "2015 Limited: backup camera, blind spot std; AEB only with Ultimate pkg. IIHS Good, NHTSA 5-star. Very high mileage hybrid (188k).",
+  "family_fit_score_1to10": 5
+ },
+ {
+  "group": "INFINITI QX50 2.0L",
+  "body_type": "Compact SUV",
+  "rear_legroom_in": 37.0,
+  "cargo_cuft": 31.4,
+  "carseat_fit_notes": "Rear legroom 37.0 in (sliding bench in some trims); fits two seats fine, rear-facing manageable. 2 LATCH sets.",
+  "latch_rating": "Not rated",
+  "carplay_by_car": {
+   "A-007": "Yes"
+  },
+  "safety_notes": "2021 Luxe: AEB, lane departure, blind spot, rear cross-traffic std. IIHS Top Safety Pick 2019-ish; NHTSA 5-star. Rear vents yes.",
+  "family_fit_score_1to10": 7
+ },
+ {
+  "group": "INFINITI QX60 3.5L",
+  "body_type": "3-row SUV",
+  "rear_legroom_in": 39.5,
+  "cargo_cuft": 15.8,
+  "carseat_fit_notes": "Excellent 2nd row (slides; 2nd row legroom ~38-41 in), 2 seats incl. rear-facing easy; cargo 15.8 behind 3rd, 76.5 max. Wide door openings.",
+  "latch_rating": "IIHS LATCH ~Acceptable (est.)",
+  "carplay_by_car": {
+   "C-050": "No"
+  },
+  "safety_notes": "2015: backup camera/around view; blind spot/AEB optional. IIHS Good (small overlap Acceptable), NHTSA 5-star. Rear vents/AC yes.",
+  "family_fit_score_1to10": 8.5
+ },
+ {
+  "group": "Jeep All New 2.4L",
+  "body_type": "Compact SUV",
+  "rear_legroom_in": 38.3,
+  "cargo_cuft": 27.2,
+  "carseat_fit_notes": "Decent rear room; two seats fit, rear-facing ok. Cargo 27.2 cu ft.",
+  "latch_rating": "IIHS LATCH Acceptable (est.)",
+  "carplay_by_car": {
+   "C-068": "Optional"
+  },
+  "safety_notes": "2017 Compass: backup camera optional, blind spot optional, no AEB standard. IIHS Good (rollover/roof Acceptable), NHTSA 4-star.",
+  "family_fit_score_1to10": 6
+ },
+ {
+  "group": "Jeep Cherokee 3.2L",
+  "body_type": "Compact SUV",
+  "rear_legroom_in": 40.3,
+  "cargo_cuft": 24.6,
+  "carseat_fit_notes": "Very good rear legroom (40.3), sliding rear seat. Two seats incl. rear-facing fit; cargo 24.6 behind rear, 54.9 max.",
+  "latch_rating": "IIHS LATCH ~Acceptable (est.)",
+  "carplay_by_car": {
+   "A-077": "Optional"
+  },
+  "safety_notes": "2017 Limited: backup camera std, blind spot/AEB optional. IIHS Good (small overlap Acceptable), NHTSA 5-star.",
+  "family_fit_score_1to10": 7
+ },
+ {
+  "group": "Jeep Grand Cherokee 3.6L",
+  "body_type": "Midsize SUV",
+  "rear_legroom_in": 38.6,
+  "cargo_cuft": 36.3,
+  "carseat_fit_notes": "Roomy, wide cabin; two seats incl. rear-facing easy, 2 LATCH + tether. Cargo 36.3 cu ft, 68.3 max.",
+  "latch_rating": "IIHS LATCH Acceptable (est.)",
+  "carplay_by_car": {
+   "A-012": "Optional"
+  },
+  "safety_notes": "2017: backup camera std; blind spot/AEB optional. IIHS Good, small overlap Acceptable; NHTSA 4-star. Rear vents yes.",
+  "family_fit_score_1to10": 8
+ },
+ {
+  "group": "Jeep Renegade 2.4L",
+  "body_type": "Subcompact SUV",
+  "rear_legroom_in": 35.1,
+  "cargo_cuft": 18.5,
+  "carseat_fit_notes": "Tight rear; two seats fit but rear-facing is cramped. Cargo 18.5 cu ft.",
+  "latch_rating": "Not rated (est. Acceptable)",
+  "carplay_by_car": {
+   "C-037": "No"
+  },
+  "safety_notes": "2015 Latitude: backup camera optional; no AEB. NHTSA 4-star; IIHS mostly Good. Weak fit for 2 seats.",
+  "family_fit_score_1to10": 4
+ },
+ {
+  "group": "Kia Sorento 3.3L",
+  "body_type": "Midsize SUV",
+  "rear_legroom_in": 38.7,
+  "cargo_cuft": 38.8,
+  "carseat_fit_notes": "Roomy 2015 redesign; 2 seats incl. rear-facing easy; cargo 38.8 behind 2nd row (73.5 max). Optional 3rd row.",
+  "latch_rating": "IIHS LATCH Good (est.)",
+  "carplay_by_car": {
+   "B-074": "No"
+  },
+  "safety_notes": "2015 SX: backup camera, blind spot std; AEB not offered. IIHS Good (small overlap Acceptable), NHTSA 5-star. Rear vents yes.",
+  "family_fit_score_1to10": 8
+ },
+ {
+  "group": "Kia Soul 1.6L",
+  "body_type": "Hatchback",
+  "rear_legroom_in": 39.1,
+  "cargo_cuft": 24.2,
+  "carseat_fit_notes": "Tall boxy cabin; two seats easy incl. rear-facing, upright seating, good visibility. Cargo 24.2 cu ft.",
+  "latch_rating": "IIHS LATCH ~Good (est.)",
+  "carplay_by_car": {
+   "B-026": "No"
+  },
+  "safety_notes": "2016 base: backup camera not standard on base trim; no AEB. IIHS Good (small overlap Acceptable), NHTSA 4-star.",
+  "family_fit_score_1to10": 6.5
+ },
+ {
+  "group": "Lincoln MKZ 3.7L",
+  "body_type": "Sedan",
+  "rear_legroom_in": 37.3,
+  "cargo_cuft": 15.4,
+  "carseat_fit_notes": "Normal midsize sedan; two seats fit, rear-facing ok but trunk opening average. Cargo 15.4 (hybrid 11.4).",
+  "latch_rating": "Not rated",
+  "carplay_by_car": {
+   "C-041": "No"
+  },
+  "safety_notes": "2016: backup camera std; blind spot, AEB optional. IIHS Good, NHTSA 5-star. Rear vents yes.",
+  "family_fit_score_1to10": 6
+ },
+ {
+  "group": "Mazda CX-9 2.5L",
+  "body_type": "3-row SUV",
+  "rear_legroom_in": 38.7,
+  "cargo_cuft": 14.4,
+  "carseat_fit_notes": "Roomy 2nd row (sliding), 2 seats incl. rear-facing easy; cargo 14.4 behind 3rd, 71.2 max. 2 LATCH sets + 3rd row.",
+  "latch_rating": "IIHS LATCH Good+/Acceptable (est.)",
+  "carplay_by_car": {
+   "A-084": "No"
+  },
+  "safety_notes": "2016: backup camera std; blind spot std, AEB (Smart City Brake) only on upper trims. IIHS Top Safety Pick+, NHTSA 5-star. Rear vents yes.",
+  "family_fit_score_1to10": 8.5
+ },
+ {
+  "group": "Nissan Altima 2.5L",
+  "body_type": "Sedan",
+  "rear_legroom_in": 35.4,
+  "cargo_cuft": 15.4,
+  "carseat_fit_notes": "Roomy for sedans; two seats fit easily, rear-facing ok. 15.4 cu ft trunk.",
+  "latch_rating": "IIHS LATCH ~Acceptable (est.)",
+  "carplay_by_car": {
+   "C-051": "No"
+  },
+  "safety_notes": "2015 S: backup camera std; blind spot not on S, no AEB. IIHS Good, small overlap Acceptable; NHTSA 5-star.",
+  "family_fit_score_1to10": 6
+ }
+]

@@ -1,0 +1,188 @@
+[
+ {
+  "group": "Nissan Maxima 3.5L",
+  "body_type": "Sedan",
+  "rear_legroom_in": 38.1,
+  "cargo_cuft": 14.3,
+  "carseat_fit_notes": "Roomy midsize sedan; 2 seats incl. rear-facing fit fine; 2 outboard LATCH sets + top tethers; sloped roof slightly tight for tall buckets",
+  "latch_rating": "not confirmed (no IIHS LATCH rating located)",
+  "carplay_by_car": {
+   "B-007": "Yes (2020 SV: CarPlay standard)"
+  },
+  "safety_notes": "2020: standard AEB, blind spot, rear cross traffic, backup camera; IIHS Good crash tests; NHTSA 5-star overall",
+  "family_fit_score_1to10": 7
+ },
+ {
+  "group": "Nissan Murano 3.5L",
+  "body_type": "Midsize SUV",
+  "rear_legroom_in": 38.1,
+  "cargo_cuft": 39.6,
+  "carseat_fit_notes": "Roomy 2-row crossover; easy rear-facing x2 plus 3rd middle seat; 2 LATCH sets; wide doors",
+  "latch_rating": "not confirmed (no IIHS LATCH rating located)",
+  "carplay_by_car": {
+   "A-055": "No"
+  },
+  "safety_notes": "2015: backup camera std; blind spot optional on SL/Platinum (no AEB); IIHS Good in most tests, small overlap Acceptable; NHTSA 4-5 star",
+  "family_fit_score_1to10": 7
+ },
+ {
+  "group": "Nissan Pathfinder 3.5L",
+  "body_type": "3-row SUV",
+  "rear_legroom_in": 41.0,
+  "cargo_cuft": 16.0,
+  "carseat_fit_notes": "Very roomy; 2nd row slides, big doors, easy install of 2 rear-facing; extra LATCH in 2nd row (3 positions on some) ; third row available but not needed (79.8 cu ft behind 2nd row)",
+  "latch_rating": "IIHS LATCH rating not confirmed (approx Acceptable/Marginal, verify)",
+  "carplay_by_car": {
+   "B-019": "No (CarPlay not offered on 2018 Pathfinder)"
+  },
+  "safety_notes": "2018 SV: backup camera, rear cross traffic optional; AEB/blind-spot limited (blind spot on SV tech pkg); IIHS Good most tests, small overlap Acceptable; NHTSA 5-star overall",
+  "family_fit_score_1to10": 8
+ },
+ {
+  "group": "Nissan Rogue 2.5L",
+  "body_type": "Compact SUV",
+  "rear_legroom_in": 38.5,
+  "cargo_cuft": 39.3,
+  "carseat_fit_notes": "Compact SUV, 2 seats fit well even rear-facing but front seats pushed forward some; 2 LATCH sets; hatch makes loading seats easy",
+  "latch_rating": "IIHS LATCH approx Acceptable (verify)",
+  "carplay_by_car": {
+   "A-058": "Optional/trim-dependent (standard on SV and up, not on base S; trim not specified)",
+   "A-033": "Yes (2018 SV)"
+  },
+  "safety_notes": "Backup camera std; AEB (Intelligent Emergency Braking) optional on 2018-19 SV/SL, blind spot on SV+; IIHS Good most tests, small overlap Good (2018); NHTSA 5-star",
+  "family_fit_score_1to10": 6
+ },
+ {
+  "group": "Nissan Sentra 1.8L",
+  "body_type": "Sedan",
+  "rear_legroom_in": 37.4,
+  "cargo_cuft": 15.1,
+  "carseat_fit_notes": "Compact sedan; 2 seats fit but rear-facing seats force front seats forward; 2 LATCH sets",
+  "latch_rating": "not confirmed (no IIHS LATCH rating located)",
+  "carplay_by_car": {
+   "C-027": "Optional/trim-dependent (2019: SV/SR/SL yes, S no)",
+   "A-024": "Optional/trim-dependent (2018: likely No on base, verify)",
+   "A-006": "No"
+  },
+  "safety_notes": "Backup camera optional/standard by trim; AEB only 2020+; IIHS Good most, small overlap Acceptable/Marginal on older; NHTSA 4-5 star",
+  "family_fit_score_1to10": 4
+ },
+ {
+  "group": "Nissan Versa 1.6L",
+  "body_type": "Sedan",
+  "rear_legroom_in": 38.0,
+  "cargo_cuft": 14.9,
+  "carseat_fit_notes": "Subcompact-sized car but unusually roomy rear; 2 seats fit tight with rear-facing; 2 LATCH sets",
+  "latch_rating": "not confirmed (no IIHS LATCH rating located)",
+  "carplay_by_car": {
+   "B-080": "No"
+  },
+  "safety_notes": "2015 S: no backup camera std, no blind spot, no AEB; IIHS small overlap Poor/Marginal on early; NHTSA 4 star",
+  "family_fit_score_1to10": 3
+ },
+ {
+  "group": "Ram 1500 5.7L",
+  "body_type": "Pickup",
+  "rear_legroom_in": 45.2,
+  "cargo_cuft": null,
+  "carseat_fit_notes": "Crew cab: very roomy rear (2019+ DT: 45.2 in; 2015 crew ~40.9 in, quad ~ similar); 2 LATCH sets+tethers; bed ~5.7ft (49-52 cu ft)",
+  "latch_rating": "IIHS LATCH approx Acceptable (2019+ crew cab; verify)",
+  "carplay_by_car": {
+   "A-003": "Yes (Uconnect 4/4C standard on Big Horn)",
+   "C-049": "No (CarPlay added 2017)"
+  },
+  "safety_notes": "2020: backup camera std, blind spot/AEB optional; IIHS Good most tests (2019+ crew cab), NHTSA 5-star; 2015: weaker, no AEB std",
+  "family_fit_score_1to10": 7
+ },
+ {
+  "group": "Subaru Impreza 2.0L",
+  "body_type": "Sedan",
+  "rear_legroom_in": 37.4,
+  "cargo_cuft": 12.3,
+  "carseat_fit_notes": "Compact sedan; 2 seats ok, rear-facing needs front seat forward; 2 LATCH sets; small trunk for strollers",
+  "latch_rating": "not confirmed (no IIHS LATCH rating located)",
+  "carplay_by_car": {
+   "A-040": "No (2016; Starlink CarPlay arrived 2017)"
+  },
+  "safety_notes": "2016 Premium Plus: backup camera, EyeSight AEB optional; IIHS Top Safety Pick+ (w/ EyeSight); NHTSA 5-star",
+  "family_fit_score_1to10": 5
+ },
+ {
+  "group": "Subaru Legacy 2.5L",
+  "body_type": "Sedan",
+  "rear_legroom_in": 38.0,
+  "cargo_cuft": 15.1,
+  "carseat_fit_notes": "Midsize sedan, wide rear; 2 seats incl rear-facing fine; 2 LATCH sets",
+  "latch_rating": "not confirmed (no IIHS LATCH rating located)",
+  "carplay_by_car": {
+   "C-064": "No (2016; not offered)"
+  },
+  "safety_notes": "2016: backup camera std, EyeSight AEB/blind spot optional; IIHS TSP+; NHTSA 5-star",
+  "family_fit_score_1to10": 7
+ },
+ {
+  "group": "Subaru Outback 2.5L",
+  "body_type": "Midsize SUV",
+  "rear_legroom_in": 39.5,
+  "cargo_cuft": 35.5,
+  "carseat_fit_notes": "Roomy wagon-crossover; wide-opening rear doors, good for 2 rear-facing seats; 2 LATCH sets; 73.3 cu ft max",
+  "latch_rating": "IIHS LATCH approx Acceptable (verify)",
+  "carplay_by_car": {
+   "B-028": "No (2015; not offered)"
+  },
+  "safety_notes": "2015: backup camera std, EyeSight AEB/blind spot optional; IIHS TSP+; NHTSA 5-star; rear vents yes",
+  "family_fit_score_1to10": 8
+ },
+ {
+  "group": "Toyota Avalon 3.5L",
+  "body_type": "Sedan",
+  "rear_legroom_in": 39.2,
+  "cargo_cuft": 16.0,
+  "carseat_fit_notes": "Very roomy large sedan; easy 2 rear-facing; 2 LATCH sets plus tethers; low-ish seat height",
+  "latch_rating": "not confirmed (no IIHS LATCH rating located)",
+  "carplay_by_car": {
+   "A-068": "No (2015 Entune lacks CarPlay)"
+  },
+  "safety_notes": "2015 XLE: backup camera, blind spot std on XLE Premium+ only; AEB optional on some; IIHS TSP+ (w/ optional); NHTSA 5-star",
+  "family_fit_score_1to10": 8
+ },
+ {
+  "group": "Toyota Corolla 1.8L",
+  "body_type": "Sedan",
+  "rear_legroom_in": 41.4,
+  "cargo_cuft": 13.0,
+  "carseat_fit_notes": "Compact w/ surprisingly generous rear legroom; 2 seats fit; rear-facing OK; 2 LATCH sets",
+  "latch_rating": "not confirmed (no IIHS LATCH rating located)",
+  "carplay_by_car": {
+   "A-002": "No"
+  },
+  "safety_notes": "2015 LE: backup camera std, no AEB std; IIHS Good, small overlap Acceptable; NHTSA 5-star",
+  "family_fit_score_1to10": 5
+ },
+ {
+  "group": "Volkswagen Jetta 1.4L",
+  "body_type": "Sedan",
+  "rear_legroom_in": 38.1,
+  "cargo_cuft": 15.7,
+  "carseat_fit_notes": "Compact sedan, big trunk; 2 seats ok; 2 LATCH sets",
+  "latch_rating": "not confirmed (no IIHS LATCH rating located)",
+  "carplay_by_car": {
+   "A-009": "No (2017 S: CarPlay on SE and up)"
+  },
+  "safety_notes": "2017 S: backup camera std; no AEB or blind spot on S; IIHS Good most, small overlap Acceptable; NHTSA 5-star",
+  "family_fit_score_1to10": 5
+ },
+ {
+  "group": "Volvo XC90 2.0L",
+  "body_type": "3-row SUV",
+  "rear_legroom_in": 37.8,
+  "cargo_cuft": 15.8,
+  "carseat_fit_notes": "Roomy 2nd row with integrated booster option; 2 outboard LATCH; third row optional; 41.8 cu ft behind 2nd row (85.7 max)",
+  "latch_rating": "IIHS LATCH approx Good (verify)",
+  "carplay_by_car": {
+   "C-072": "Yes (Sensus Connect: CarPlay on 2016 XC90)"
+  },
+  "safety_notes": "2016: City Safety AEB std, blind spot optional; IIHS TSP+; NHTSA 5-star; rear vents + rear AC",
+  "family_fit_score_1to10": 9
+ }
+]

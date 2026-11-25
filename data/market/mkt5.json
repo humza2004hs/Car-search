@@ -1,0 +1,134 @@
+[
+ {
+  "run": "A-012",
+  "car": "2017 Jeep Grand Cherokee 4WD 3.6",
+  "miles": 152921,
+  "retail_value_usd": "9,500-12,000",
+  "private_party_value_usd": "8,000-9,500",
+  "estimated_wholesale_usd": "6,500-7,800",
+  "max_bid_range_usd": "5,500-6,500",
+  "comps": "KBB listing 156,794mi Laredo $8,500; Racine WI dealer 151,377mi $11,995; AL 160k $7,999",
+  "notes": "Likely Laredo-level; Limited/Altitude trims would be higher."
+ },
+ {
+  "run": "C-037",
+  "car": "2015 Jeep Renegade Latitude 4WD 2.4",
+  "miles": 188575,
+  "retail_value_usd": "5,500-7,000",
+  "private_party_value_usd": "3,800-5,000",
+  "estimated_wholesale_usd": "2,800-3,800",
+  "max_bid_range_usd": "2,000-3,000",
+  "comps": "No direct comps fetched; estimate from typical market levels for year/trim/mileage",
+  "notes": "Very high miles; 9-speed trans reliability risk."
+ },
+ {
+  "run": "B-074",
+  "car": "2015 Kia Sorento SX AWD 3.3",
+  "miles": 147194,
+  "retail_value_usd": "7,500-9,500",
+  "private_party_value_usd": "5,500-7,000",
+  "estimated_wholesale_usd": "4,500-5,800",
+  "max_bid_range_usd": "3,500-4,800",
+  "comps": "No direct comps fetched; estimate from typical market levels for year/trim/mileage",
+  "notes": "SX V6 AWD is top trim."
+ },
+ {
+  "run": "B-026",
+  "car": "2016 Kia Soul FWD 1.6",
+  "miles": 101652,
+  "retail_value_usd": "8,000-9,500",
+  "private_party_value_usd": "6,000-7,500",
+  "estimated_wholesale_usd": "5,000-6,500",
+  "max_bid_range_usd": "4,000-5,500",
+  "comps": "No direct comps fetched; estimate from typical market levels for year/trim/mileage",
+  "notes": "Low miles for age; base trim."
+ },
+ {
+  "run": "C-041",
+  "car": "2016 Lincoln MKZ AWD 3.7",
+  "miles": 128397,
+  "retail_value_usd": "8,000-10,000",
+  "private_party_value_usd": "6,000-7,500",
+  "estimated_wholesale_usd": "4,800-6,200",
+  "max_bid_range_usd": "3,800-5,000",
+  "comps": "No direct comps fetched; estimate from typical market levels for year/trim/mileage",
+  "notes": "Luxury brand depreciates fast; repairs costly."
+ },
+ {
+  "run": "A-084",
+  "car": "2016 Mazda CX-9 4WD 2.5",
+  "miles": 140053,
+  "retail_value_usd": "10,000-12,500",
+  "private_party_value_usd": "7,500-9,500",
+  "estimated_wholesale_usd": "6,500-8,000",
+  "max_bid_range_usd": "5,500-7,000",
+  "comps": "No direct comps fetched; estimate from typical market levels for year/trim/mileage",
+  "notes": "Trim unknown; Touring/GT higher."
+ },
+ {
+  "run": "C-051",
+  "car": "2015 Nissan Altima 2.5 S FWD",
+  "miles": 145137,
+  "retail_value_usd": "5,500-7,000",
+  "private_party_value_usd": "4,000-5,200",
+  "estimated_wholesale_usd": "3,000-4,000",
+  "max_bid_range_usd": "2,200-3,200",
+  "comps": "No direct comps fetched; estimate from typical market levels for year/trim/mileage",
+  "notes": "CVT risk at this mileage."
+ },
+ {
+  "run": "B-007",
+  "car": "2020 Nissan Maxima SV",
+  "miles": 185616,
+  "retail_value_usd": "11,000-13,500",
+  "private_party_value_usd": "8,500-10,500",
+  "estimated_wholesale_usd": "7,000-9,000",
+  "max_bid_range_usd": "6,000-8,000",
+  "comps": "carsforsale Dallas 2020 Maxima SV 140k mi $12,900; KBB 139k mi $16,995; TrueCar 138k $14,799",
+  "notes": "Comps are at ~140k mi, so adjusted down ~$2-3k for 186k mi."
+ },
+ {
+  "run": "A-055",
+  "car": "2015 Nissan Murano FWD 3.5",
+  "miles": 166539,
+  "retail_value_usd": "5,500-7,500",
+  "private_party_value_usd": "4,000-5,500",
+  "estimated_wholesale_usd": "3,000-4,200",
+  "max_bid_range_usd": "2,300-3,500",
+  "comps": "No direct comps fetched; estimate from typical market levels for year/trim/mileage",
+  "notes": "CVT risk; high miles."
+ },
+ {
+  "run": "B-019",
+  "car": "2018 Nissan Pathfinder SV 4WD",
+  "miles": 143090,
+  "retail_value_usd": "12,000-14,500",
+  "private_party_value_usd": "9,500-11,500",
+  "estimated_wholesale_usd": "8,500-10,500",
+  "max_bid_range_usd": "7,500-9,300",
+  "comps": "No direct comps fetched; estimate from typical market levels for year/trim/mileage",
+  "notes": "Strong demand for 3-row SUVs; wholesale tends to be firm."
+ },
+ {
+  "run": "A-058",
+  "car": "2019 Nissan Rogue AWD 2.5",
+  "miles": 126138,
+  "retail_value_usd": "11,500-13,500",
+  "private_party_value_usd": "9,000-11,000",
+  "estimated_wholesale_usd": "8,000-9,800",
+  "max_bid_range_usd": "7,000-8,800",
+  "comps": "KBB 123,778mi 2018 Rogue SV $11,111; 117,906mi $10,999; AWD 157k $8,495",
+  "notes": "Trim unknown (S/SV)."
+ },
+ {
+  "run": "A-033",
+  "car": "2018 Nissan Rogue SV AWD 2.5",
+  "miles": 120799,
+  "retail_value_usd": "10,500-12,500",
+  "private_party_value_usd": "8,300-10,000",
+  "estimated_wholesale_usd": "7,000-8,800",
+  "max_bid_range_usd": "6,000-7,800",
+  "comps": "KBB 123,778mi 2018 Rogue SV $11,111; 117,906mi $10,999; AWD 157k $8,495",
+  "notes": "Comps directly relevant."
+ }
+]

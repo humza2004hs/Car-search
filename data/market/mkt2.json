@@ -1,0 +1,335 @@
+[
+ {
+  "run": "B-025",
+  "car": "2017 Chevrolet Traverse 1LT AWD",
+  "miles": 144137,
+  "retail_value_usd": "8500-11000",
+  "private_party_value_usd": "6500-8000",
+  "estimated_wholesale_usd": "5000-6000",
+  "max_bid_range_usd": "3800-4800",
+  "comps": [
+   "KBB 2017 Traverse LT AWD 148.8k mi $8,995",
+   "CarGurus 2017 Traverse Premier AWD 122k mi $10,795"
+  ],
+  "notes": "As-is, no condition report; max bid keeps hammer+$1,700 fees/recon below low end of private party. Many comps are estimates from market knowledge."
+ },
+ {
+  "run": "A-056",
+  "car": "2016 Chevrolet Traverse LS AWD",
+  "miles": 144420,
+  "retail_value_usd": "7200-9500",
+  "private_party_value_usd": "5500-7000",
+  "estimated_wholesale_usd": "4200-5200",
+  "max_bid_range_usd": "3000-4000",
+  "comps": [
+   "KBB/CarGurus 2016-17 Traverse 140-150k mi range $6.5k-$9k"
+  ],
+  "notes": "As-is, no condition report; max bid keeps hammer+$1,700 fees/recon below low end of private party. Many comps are estimates from market knowledge."
+ },
+ {
+  "run": "A-083",
+  "car": "2019 Chevrolet Trax FWD",
+  "miles": 112979,
+  "retail_value_usd": "9500-12500",
+  "private_party_value_usd": "8500-10000",
+  "estimated_wholesale_usd": "6500-7800",
+  "max_bid_range_usd": "5800-6800",
+  "comps": [
+   "Est. from KBB/CarGurus 2019 Trax 100-115k mi ~$10-12k asks"
+  ],
+  "notes": "As-is, no condition report; max bid keeps hammer+$1,700 fees/recon below low end of private party. Many comps are estimates from market knowledge."
+ },
+ {
+  "run": "C-018",
+  "car": "2019 Chevrolet Trax LS FWD",
+  "miles": 147677,
+  "retail_value_usd": "7800-10000",
+  "private_party_value_usd": "6500-8000",
+  "estimated_wholesale_usd": "5000-6200",
+  "max_bid_range_usd": "4000-5000",
+  "comps": [
+   "Est. 2019 Trax 140-150k mi ~$8-10k asks"
+  ],
+  "notes": "As-is, no condition report; max bid keeps hammer+$1,700 fees/recon below low end of private party. Many comps are estimates from market knowledge."
+ },
+ {
+  "run": "C-026",
+  "car": "2015 Chevrolet Trax LTZ FWD",
+  "miles": 94926,
+  "retail_value_usd": "6500-8500",
+  "private_party_value_usd": "5500-6800",
+  "estimated_wholesale_usd": "4200-5200",
+  "max_bid_range_usd": "3300-4300",
+  "comps": [
+   "Est. 2015 Trax 90-100k mi ~$6.5-8.5k asks"
+  ],
+  "notes": "As-is, no condition report; max bid keeps hammer+$1,700 fees/recon below low end of private party. Many comps are estimates from market knowledge."
+ },
+ {
+  "run": "A-010",
+  "car": "2020 Dodge Durango SXT? AWD",
+  "miles": 38857,
+  "retail_value_usd": "25000-30000",
+  "private_party_value_usd": "23500-26000",
+  "estimated_wholesale_usd": "20000-22500",
+  "max_bid_range_usd": "19000-21000",
+  "comps": [
+   "CarGurus 2020 Durango avg ask $22.6k all miles",
+   "KBB 2020 Durango GT AWD $18.5k-$21.7k at higher miles"
+  ],
+  "notes": "Trim uncertain (listing blank/partial); As-is, no condition report; max bid keeps hammer+$1,700 fees/recon below low end of private party. Many comps are estimates from market knowledge."
+ },
+ {
+  "run": "B-016",
+  "car": "2020 Dodge Durango GT AWD",
+  "miles": 237888,
+  "retail_value_usd": "10500-14500",
+  "private_party_value_usd": "8500-10500",
+  "estimated_wholesale_usd": "6500-8500",
+  "max_bid_range_usd": "5500-7000",
+  "comps": [
+   "KBB 2020 Durango GT AWD $18.5-21.7k at normal miles; 238k mi extreme so heavy discount (est.)"
+  ],
+  "notes": "As-is, no condition report; max bid keeps hammer+$1,700 fees/recon below low end of private party. Many comps are estimates from market knowledge."
+ },
+ {
+  "run": "A-018",
+  "car": "2017 Dodge Durango R/T AWD",
+  "miles": 199418,
+  "retail_value_usd": "10500-14000",
+  "private_party_value_usd": "8500-10500",
+  "estimated_wholesale_usd": "6500-8000",
+  "max_bid_range_usd": "5500-7000",
+  "comps": [
+   "Est. 2017 Durango R/T 150-200k mi ~$11-14k asks"
+  ],
+  "notes": "As-is, no condition report; max bid keeps hammer+$1,700 fees/recon below low end of private party. Many comps are estimates from market knowledge."
+ },
+ {
+  "run": "B-060",
+  "car": "2015 Dodge Durango Boulevard? 5.7 AWD",
+  "miles": 182715,
+  "retail_value_usd": "8000-11000",
+  "private_party_value_usd": "6500-8000",
+  "estimated_wholesale_usd": "4800-6200",
+  "max_bid_range_usd": "3800-5000",
+  "comps": [
+   "Est. 2015 Durango 5.7 AWD 170-190k mi ~$8-11k asks"
+  ],
+  "notes": "Trim uncertain (listing blank/partial); As-is, no condition report; max bid keeps hammer+$1,700 fees/recon below low end of private party. Many comps are estimates from market knowledge."
+ },
+ {
+  "run": "C-071",
+  "car": "2017 Dodge Grand Caravan SXT FWD",
+  "miles": 126487,
+  "retail_value_usd": "7000-10000",
+  "private_party_value_usd": "6000-7500",
+  "estimated_wholesale_usd": "4500-5800",
+  "max_bid_range_usd": "3500-4500",
+  "comps": [
+   "Est. 2017 GC SXT 120-130k mi ~$7-10k asks"
+  ],
+  "notes": "As-is, no condition report; max bid keeps hammer+$1,700 fees/recon below low end of private party. Many comps are estimates from market knowledge."
+ },
+ {
+  "run": "C-008",
+  "car": "2017 Fiat 500X Lounge FWD",
+  "miles": 62170,
+  "retail_value_usd": "10000-13000",
+  "private_party_value_usd": "8500-10000",
+  "estimated_wholesale_usd": "7000-8500",
+  "max_bid_range_usd": "6000-7500",
+  "comps": [
+   "Est. 2017 500X 55-70k mi ~$10-13k asks"
+  ],
+  "notes": "As-is, no condition report; max bid keeps hammer+$1,700 fees/recon below low end of private party. Many comps are estimates from market knowledge."
+ },
+ {
+  "run": "A-005",
+  "car": "2019 Ford EcoSport S 4WD",
+  "miles": 61466,
+  "retail_value_usd": "12500-16000",
+  "private_party_value_usd": "11500-13000",
+  "estimated_wholesale_usd": "9500-11000",
+  "max_bid_range_usd": "9000-10500",
+  "comps": [
+   "Est. 2019 EcoSport 55-65k mi ~$13-16k asks"
+  ],
+  "notes": "As-is, no condition report; max bid keeps hammer+$1,700 fees/recon below low end of private party. Many comps are estimates from market knowledge."
+ },
+ {
+  "run": "C-002",
+  "car": "2018 Ford EcoSport 4WD",
+  "miles": 105701,
+  "retail_value_usd": "9000-12000",
+  "private_party_value_usd": "7500-9000",
+  "estimated_wholesale_usd": "6000-7200",
+  "max_bid_range_usd": "5000-6500",
+  "comps": [
+   "Est. 2018 EcoSport 100-110k mi ~$9-12k asks"
+  ],
+  "notes": "As-is, no condition report; max bid keeps hammer+$1,700 fees/recon below low end of private party. Many comps are estimates from market knowledge."
+ },
+ {
+  "run": "B-024",
+  "car": "2020 Ford Edge SE FWD",
+  "miles": 103907,
+  "retail_value_usd": "14500-18500",
+  "private_party_value_usd": "13000-15000",
+  "estimated_wholesale_usd": "10500-12500",
+  "max_bid_range_usd": "10000-11500",
+  "comps": [
+   "Est. 2020 Edge SE 100k mi ~$15-18k asks"
+  ],
+  "notes": "As-is, no condition report; max bid keeps hammer+$1,700 fees/recon below low end of private party. Many comps are estimates from market knowledge."
+ },
+ {
+  "run": "A-021",
+  "car": "2018 Ford Edge Titanium AWD",
+  "miles": 167647,
+  "retail_value_usd": "9500-13000",
+  "private_party_value_usd": "8000-9500",
+  "estimated_wholesale_usd": "6000-7500",
+  "max_bid_range_usd": "5000-6300",
+  "comps": [
+   "Est. 2018 Edge Titanium 160-170k mi ~$10-13k asks"
+  ],
+  "notes": "As-is, no condition report; max bid keeps hammer+$1,700 fees/recon below low end of private party. Many comps are estimates from market knowledge."
+ },
+ {
+  "run": "B-013",
+  "car": "2016 Ford Edge SE AWD",
+  "miles": 167516,
+  "retail_value_usd": "7000-10000",
+  "private_party_value_usd": "5800-7200",
+  "estimated_wholesale_usd": "4300-5500",
+  "max_bid_range_usd": "3500-4500",
+  "comps": [
+   "Est. 2016 Edge SE AWD 165k mi ~$7-10k asks"
+  ],
+  "notes": "As-is, no condition report; max bid keeps hammer+$1,700 fees/recon below low end of private party. Many comps are estimates from market knowledge."
+ },
+ {
+  "run": "C-003",
+  "car": "2021 Ford Escape 4WD",
+  "miles": 113927,
+  "retail_value_usd": "13500-17500",
+  "private_party_value_usd": "12000-14000",
+  "estimated_wholesale_usd": "9500-11500",
+  "max_bid_range_usd": "9000-10300",
+  "comps": [
+   "Est. 2021 Escape 110-115k mi ~$14-17k asks"
+  ],
+  "notes": "As-is, no condition report; max bid keeps hammer+$1,700 fees/recon below low end of private party. Many comps are estimates from market knowledge."
+ },
+ {
+  "run": "B-046",
+  "car": "2020 Ford Escape 4WD",
+  "miles": 106347,
+  "retail_value_usd": "11500-15500",
+  "private_party_value_usd": "10500-12500",
+  "estimated_wholesale_usd": "8500-10000",
+  "max_bid_range_usd": "7800-9000",
+  "comps": [
+   "KBB 2019 Escape Titanium 4WD 105.8k mi $13,490",
+   "Est. 2020 Escape 105k mi ~$12-15k"
+  ],
+  "notes": "As-is, no condition report; max bid keeps hammer+$1,700 fees/recon below low end of private party. Many comps are estimates from market knowledge."
+ },
+ {
+  "run": "C-024",
+  "car": "2019 Ford Escape FWD",
+  "miles": 107622,
+  "retail_value_usd": "9000-12000",
+  "private_party_value_usd": "8000-9500",
+  "estimated_wholesale_usd": "6500-7800",
+  "max_bid_range_usd": "5800-7000",
+  "comps": [
+   "KBB 2019 Escape SE 104k mi $9,995",
+   "KBB 2019 Escape S 105k mi $8,995",
+   "TrueCar 2019 Escape 107k mi $9,995"
+  ],
+  "notes": "As-is, no condition report; max bid keeps hammer+$1,700 fees/recon below low end of private party. Many comps are estimates from market knowledge."
+ },
+ {
+  "run": "C-025",
+  "car": "2018 Ford Escape SE 4WD",
+  "miles": 105120,
+  "retail_value_usd": "8500-11500",
+  "private_party_value_usd": "7500-9000",
+  "estimated_wholesale_usd": "6000-7300",
+  "max_bid_range_usd": "5500-6500",
+  "comps": [
+   "Est. from 2019 Escape comps at ~105k mi ($9-10k) minus a year"
+  ],
+  "notes": "As-is, no condition report; max bid keeps hammer+$1,700 fees/recon below low end of private party. Many comps are estimates from market knowledge."
+ },
+ {
+  "run": "C-034",
+  "car": "2017 Ford Escape SE FWD",
+  "miles": 105817,
+  "retail_value_usd": "7500-10000",
+  "private_party_value_usd": "6500-8000",
+  "estimated_wholesale_usd": "5000-6200",
+  "max_bid_range_usd": "4500-5500",
+  "comps": [
+   "Est. 2017 Escape SE 105k mi ~$8-10k asks"
+  ],
+  "notes": "As-is, no condition report; max bid keeps hammer+$1,700 fees/recon below low end of private party. Many comps are estimates from market knowledge."
+ },
+ {
+  "run": "C-033",
+  "car": "2017 Ford Escape SE 4WD",
+  "miles": 143048,
+  "retail_value_usd": "6500-9000",
+  "private_party_value_usd": "5500-6800",
+  "estimated_wholesale_usd": "4000-5200",
+  "max_bid_range_usd": "3500-4300",
+  "comps": [
+   "Est. 2017 Escape SE 4WD 140k mi ~$7-9k asks"
+  ],
+  "notes": "As-is, no condition report; max bid keeps hammer+$1,700 fees/recon below low end of private party. Many comps are estimates from market knowledge."
+ },
+ {
+  "run": "A-023",
+  "car": "2017 Ford Escape SE 4WD",
+  "miles": 144877,
+  "retail_value_usd": "6500-9000",
+  "private_party_value_usd": "5400-6700",
+  "estimated_wholesale_usd": "4000-5100",
+  "max_bid_range_usd": "3400-4200",
+  "comps": [
+   "Same as C-033"
+  ],
+  "notes": "As-is, no condition report; max bid keeps hammer+$1,700 fees/recon below low end of private party. Many comps are estimates from market knowledge."
+ },
+ {
+  "run": "C-038",
+  "car": "2015 Ford Escape Titanium 4WD",
+  "miles": 40175,
+  "retail_value_usd": "10500-14000",
+  "private_party_value_usd": "9500-11500",
+  "estimated_wholesale_usd": "8000-9500",
+  "max_bid_range_usd": "7500-9000",
+  "comps": [
+   "Est. 2015 Escape Titanium low miles ~$11-14k asks; 40k is rare for year (verify odometer)"
+  ],
+  "notes": "As-is, no condition report; max bid keeps hammer+$1,700 fees/recon below low end of private party. Many comps are estimates from market knowledge."
+ },
+ {
+  "run": "B-018",
+  "car": "2018 Ford Expedition Max Limited 4WD",
+  "miles": 114272,
+  "retail_value_usd": "21000-27900",
+  "private_party_value_usd": "19500-22000",
+  "estimated_wholesale_usd": "16500-19000",
+  "max_bid_range_usd": "15500-17800",
+  "comps": [
+   "KBB 2018 Expedition Max Limited 4WD 113.4k mi $22,750",
+   "KBB 115.5k mi $21,995 Tucson",
+   "KBB 116k mi $20,995",
+   "KBB 112.5k mi $27,900"
+  ],
+  "notes": "As-is, no condition report; max bid keeps hammer+$1,700 fees/recon below low end of private party. Many comps are estimates from market knowledge."
+ }
+]
